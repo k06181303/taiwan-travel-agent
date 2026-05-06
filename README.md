@@ -1,3 +1,12 @@
+---
+title: Taiwan Travel Agent
+emoji: 🗺️
+colorFrom: blue
+colorTo: green
+sdk: docker
+pinned: false
+---
+
 # Taiwan Travel Agent
 
 > 以 **LangGraph + FastAPI + Claude API** 打造的多步驟台灣旅遊 AI Agent，展示 Production-ready 的 Agent 工作流設計。

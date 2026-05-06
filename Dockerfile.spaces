@@ -1,0 +1,45 @@
+# Hugging Face Spaces 專用 Dockerfile
+#
+# 差異 vs 本地 Dockerfile：
+#   - PORT 改為 7860（HF Spaces 固定 port）
+#   - USER 1000（HF Spaces 非 root 安全要求）
+#   - CMD 改為 start.sh（先 seed DB，再啟動 server）
+
+FROM python:3.11-slim
+
+WORKDIR /app
+
+# 安裝系統依賴
+RUN apt-get update && apt-get install -y \
+    build-essential \
+    curl \
+    && rm -rf /var/lib/apt/lists/*
+
+# 先安裝套件（利用 Docker layer cache）
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt \
+    && pip install --no-cache-dir torch --index-url https://download.pytorch.org/whl/cpu
+
+# 複製專案程式碼
+COPY app/ ./app/
+COPY data/ ./data/
+COPY scripts/ ./scripts/
+COPY start.sh .
+COPY pyproject.toml .
+
+# 建立 ChromaDB 資料目錄，確保 user 1000 有寫入權
+RUN mkdir -p chromadb_data && chmod 777 chromadb_data
+
+# HF Spaces 要求非 root 執行
+RUN useradd -m -u 1000 appuser
+USER 1000
+
+# HF Spaces 固定使用 7860 port
+EXPOSE 7860
+
+# 健康檢查
+HEALTHCHECK --interval=30s --timeout=10s --start-period=120s --retries=3 \
+    CMD curl -f http://localhost:7860/health || exit 1
+
+# 啟動：先 seed ChromaDB，再起 server
+CMD ["bash", "start.sh"]

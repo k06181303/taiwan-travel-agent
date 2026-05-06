@@ -1,0 +1,44 @@
+# Taiwan Travel Agent - 依賴清單
+# 由 pip freeze 產生，版本鎖定確保 Docker 環境一致性
+
+# Web 框架
+fastapi==0.136.1
+uvicorn==0.46.0
+
+# AI / LLM
+anthropic==0.97.0
+langchain==1.2.17
+langchain-core==1.3.2
+langgraph==1.1.10
+langgraph-checkpoint==4.0.3
+langgraph-prebuilt==1.0.13
+
+# 向量資料庫
+chromadb==1.5.8
+
+# Embedding & Reranking（本地模型，不需要額外 API key）
+sentence-transformers==5.4.1
+# torch 使用 CPU 版本，避免 Docker image 過大
+# 若需 GPU 版本，請改用對應的 torch+cu* 版本
+
+# 中文斷詞（BM25 混合檢索）
+jieba==0.42.1
+
+# 混合檢索
+rank-bm25==0.2.2
+
+# 資料驗證
+pydantic==2.13.3
+pydantic-settings==2.14.0
+
+# 環境變數
+python-dotenv==1.2.2
+
+# 資料庫（SQLAlchemy，Phase 5 以後可選）
+sqlalchemy==2.0.0
+
+# HTTP 客戶端（測試用）
+httpx==0.28.1
+
+# 工具
+numpy==2.4.4

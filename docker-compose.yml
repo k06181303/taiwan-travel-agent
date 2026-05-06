@@ -1,0 +1,39 @@
+version: "3.8"
+
+# Taiwan Travel Agent - Docker Compose 設定
+#
+# 服務架構：
+#   app：FastAPI + LangGraph + ChromaDB（all-in-one）
+#
+# ChromaDB 使用本地持久化（volume mount），
+# 不另起獨立 chromadb service（避免網路延遲，簡化部署）
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: taiwan-travel-agent
+    ports:
+      # 對外：本機 8000 → 容器 8000
+      - "8000:8000"
+    volumes:
+      # ChromaDB 持久化：容器重啟後資料不消失
+      - chromadb_data:/app/chromadb_data
+    env_file:
+      # 讀取 .env 檔，需要先 cp .env.example .env 並填入 API key
+      - .env
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+
+# Named volume：讓 ChromaDB 資料在容器重啟後仍然存在
+# docker volume ls 可以查看
+# docker volume rm taiwan-travel-agent_chromadb_data 可以清除資料
+volumes:
+  chromadb_data:
+    driver: local

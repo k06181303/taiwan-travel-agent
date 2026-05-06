@@ -1,0 +1,32 @@
+# 環境變數(含 API Key,絕對不能 commit)
+.env
+
+# Python 虛擬環境
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+
+# 向量資料庫(資料量大,本地重建即可)
+chromadb_data/
+
+# SQLite DB
+*.db
+*.sqlite
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 測試快取
+.pytest_cache/
+.coverage
+
+# 套件建置產物
+dist/
+build/
+*.egg-info/

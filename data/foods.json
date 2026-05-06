@@ -1,0 +1,4206 @@
+[
+    {
+        "id": "food_001",
+        "name": "鼎泰豐信義店",
+        "aliases": [
+            "Din Tai Fung",
+            "鼎泰豐",
+            "信義鼎泰豐"
+        ],
+        "description": "台北信義區的米其林星級小籠包名店，湯汁飽滿、皮薄餡嫩是一貫水準。假日排隊人潮眾多，建議平日前往或提早現場抽號碼牌，用餐時間約一小時。",
+        "keywords": [
+            "小籠包",
+            "米其林",
+            "信義",
+            "台灣必吃",
+            "排隊名店"
+        ],
+        "must_try": [
+            "小籠包",
+            "蝦仁燒賣",
+            "芋泥小籠包",
+            "酸辣湯"
+        ],
+        "awards": [
+            "米其林一星",
+            "亞洲50最佳餐廳"
+        ],
+        "city": "台北市",
+        "district": "大安區",
+        "address": "台北市大安區信義路二段194號",
+        "latitude": 25.0329,
+        "longitude": 121.5270,
+        "nearest_transit": [
+            {
+                "type": "MRT",
+                "station": "東門站",
+                "line": "信義線",
+                "walk_minutes": 3
+            }
+        ],
+        "has_parking": false,
+        "category": "中式",
+        "tags": [
+            "小籠包",
+            "米其林",
+            "台灣必吃",
+            "功夫菜",
+            "老字號"
+        ],
+        "vegetarian_type": "partial",
+        "halal": false,
+        "pet_friendly": false,
+        "wifi": false,
+        "power_outlet": false,
+        "private_room": true,
+        "seating": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": false
+        },
+        "open_hours": {
+            "monday": "10:00-21:00",
+            "tuesday": "10:00-21:00",
+            "wednesday": "10:00-21:00",
+            "thursday": "10:00-21:00",
+            "friday": "10:00-21:30",
+            "saturday": "09:00-21:30",
+            "sunday": "09:00-21:00"
+        },
+        "closed_days": [],
+        "season": [
+            "四季皆宜"
+        ],
+        "avg_meal_time": 60,
+        "queue_level": "long",
+        "payment_methods": [
+            "現金",
+            "信用卡",
+            "行動支付"
+        ],
+        "price_range_min": 400,
+        "price_range_max": 800,
+        "price_level": 2,
+        "min_charge": 0,
+        "reservation_required": false,
+        "rating": 4.6,
+        "review_count": 65000,
+        "popularity": "high",
+        "crowdedness": "high"
+    },
+    {
+        "id": "food_002",
+        "name": "阜杭豆漿",
+        "aliases": [
+            "善導寺豆漿",
+            "阜杭",
+            "Fuhang Soy Milk"
+        ],
+        "description": "台北排隊傳奇，厚燒餅夾油條搭配香濃豆漿是招牌早餐。清晨五點半開賣，假日常大排長龍。外酥內軟的燒餅現烤現賣，是台北老饕公認的頂級早點，建議提早排隊以免向隅。",
+        "keywords": [
+            "豆漿",
+            "燒餅",
+            "油條",
+            "早餐",
+            "排隊",
+            "台北必吃"
+        ],
+        "must_try": [
+            "厚燒餅夾油條",
+            "甜豆漿",
+            "鹹豆漿",
+            "蛋餅"
+        ],
+        "awards": [
+            "米其林必比登推介"
+        ],
+        "city": "台北市",
+        "district": "中正區",
+        "address": "台北市中正區忠孝東路一段108號2樓",
+        "latitude": 25.0449,
+        "longitude": 121.5305,
+        "nearest_transit": [
+            {
+                "type": "MRT",
+                "station": "善導寺站",
+                "line": "板南線",
+                "walk_minutes": 1
+            }
+        ],
+        "has_parking": false,
+        "category": "早午餐",
+        "tags": [
+            "豆漿",
+            "燒餅",
+            "早餐",
+            "台灣傳統",
+            "排隊"
+        ],
+        "vegetarian_type": "partial",
+        "halal": false,
+        "pet_friendly": false,
+        "wifi": false,
+        "power_outlet": false,
+        "private_room": false,
+        "seating": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": false
+        },
+        "open_hours": {
+            "monday": "05:30-12:30",
+            "tuesday": "公休",
+            "wednesday": "05:30-12:30",
+            "thursday": "05:30-12:30",
+            "friday": "05:30-12:30",
+            "saturday": "05:30-12:30",
+            "sunday": "05:30-12:30"
+        },
+        "closed_days": [
+            "週二"
+        ],
+        "season": [
+            "四季皆宜"
+        ],
+        "avg_meal_time": 20,
+        "queue_level": "long",
+        "payment_methods": [
+            "現金"
+        ],
+        "price_range_min": 50,
+        "price_range_max": 150,
+        "price_level": 1,
+        "min_charge": 0,
+        "reservation_required": false,
+        "rating": 4.5,
+        "review_count": 42000,
+        "popularity": "high",
+        "crowdedness": "high"
+    },
+    {
+        "id": "food_003",
+        "name": "金峰滷肉飯",
+        "aliases": [
+            "金峰",
+            "羅斯福路滷肉飯"
+        ],
+        "description": "台北中正區的滷肉飯標竿店，肥瘦比例恰到好處的豬肉滷得入口即化，滷汁香甜不膩。搭配一碗貢丸湯或豬血糕是老饕固定組合，深夜依舊有座，是台北宵夜首選之一。",
+        "keywords": [
+            "滷肉飯",
+            "宵夜",
+            "台灣魂",
+            "老店",
+            "中正區"
+        ],
+        "must_try": [
+            "滷肉飯",
+            "貢丸湯",
+            "豬血糕",
+            "滷蛋"
+        ],
+        "awards": [
+            "米其林必比登推介"
+        ],
+        "city": "台北市",
+        "district": "中正區",
+        "address": "台北市中正區羅斯福路一段10號",
+        "latitude": 25.0413,
+        "longitude": 121.5188,
+        "nearest_transit": [
+            {
+                "type": "MRT",
+                "station": "台大醫院站",
+                "line": "淡水信義線",
+                "walk_minutes": 5
+            }
+        ],
+        "has_parking": false,
+        "category": "小吃",
+        "tags": [
+            "滷肉飯",
+            "宵夜",
+            "台灣小吃",
+            "平價",
+            "老字號"
+        ],
+        "vegetarian_type": "none",
+        "halal": false,
+        "pet_friendly": false,
+        "wifi": false,
+        "power_outlet": false,
+        "private_room": false,
+        "seating": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": false
+        },
+        "open_hours": {
+            "monday": "11:00-01:00",
+            "tuesday": "11:00-01:00",
+            "wednesday": "11:00-01:00",
+            "thursday": "11:00-01:00",
+            "friday": "11:00-01:00",
+            "saturday": "11:00-01:00",
+            "sunday": "公休"
+        },
+        "closed_days": [
+            "週日"
+        ],
+        "season": [
+            "四季皆宜"
+        ],
+        "avg_meal_time": 20,
+        "queue_level": "medium",
+        "payment_methods": [
+            "現金"
+        ],
+        "price_range_min": 35,
+        "price_range_max": 150,
+        "price_level": 1,
+        "min_charge": 0,
+        "reservation_required": false,
+        "rating": 4.4,
+        "review_count": 38000,
+        "popularity": "high",
+        "crowdedness": "high"
+    },
+    {
+        "id": "food_004",
+        "name": "林東芳牛肉麵",
+        "aliases": [
+            "林東芳",
+            "八德路牛肉麵"
+        ],
+        "description": "台北深夜牛肉麵地標，湯頭濃郁帶辣香、牛腱軟嫩入味，每天深夜依然大排長龍。平日可在路邊攤位等候，週末人潮更盛。是許多台北人下班後犒賞自己的首選，更是觀光客必朝聖的老店之一。",
+        "keywords": [
+            "牛肉麵",
+            "深夜食堂",
+            "排隊",
+            "濃郁湯頭",
+            "中山"
+        ],
+        "must_try": [
+            "紅燒牛肉麵",
+            "牛腱切盤",
+            "牛筋麵"
+        ],
+        "awards": [
+            "米其林必比登推介"
+        ],
+        "city": "台北市",
+        "district": "中山區",
+        "address": "台北市中山區八德路二段274號",
+        "latitude": 25.0536,
+        "longitude": 121.5416,
+        "nearest_transit": [
+            {
+                "type": "MRT",
+                "station": "中山國中站",
+                "line": "文湖線",
+                "walk_minutes": 8
+            }
+        ],
+        "has_parking": false,
+        "category": "麵食",
+        "tags": [
+            "牛肉麵",
+            "深夜",
+            "排隊",
+            "台灣必吃",
+            "老字號"
+        ],
+        "vegetarian_type": "none",
+        "halal": false,
+        "pet_friendly": false,
+        "wifi": false,
+        "power_outlet": false,
+        "private_room": false,
+        "seating": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": false
+        },
+        "open_hours": {
+            "monday": "11:00-02:00",
+            "tuesday": "11:00-02:00",
+            "wednesday": "公休",
+            "thursday": "11:00-02:00",
+            "friday": "11:00-02:00",
+            "saturday": "11:00-02:00",
+            "sunday": "11:00-02:00"
+        },
+        "closed_days": [
+            "週三"
+        ],
+        "season": [
+            "四季皆宜"
+        ],
+        "avg_meal_time": 30,
+        "queue_level": "long",
+        "payment_methods": [
+            "現金"
+        ],
+        "price_range_min": 180,
+        "price_range_max": 350,
+        "price_level": 1,
+        "min_charge": 0,
+        "reservation_required": false,
+        "rating": 4.5,
+        "review_count": 31000,
+        "popularity": "high",
+        "crowdedness": "high"
+    },
+    {
+        "id": "food_005",
+        "name": "永康牛肉麵",
+        "aliases": [
+            "大安牛肉麵",
+            "永康街牛肉麵"
+        ],
+        "description": "台北永康街的牛肉麵名店，紅燒湯底色澤深邃、香氣層次豐富，牛肉燉煮至筷子輕觸即散。店面小巧，位置有限，用餐時段常需候位。鄰近師大夜市，可作為逛街後的晚餐首選。",
+        "keywords": [
+            "牛肉麵",
+            "永康街",
+            "紅燒",
+            "大安",
+            "老店"
+        ],
+        "must_try": [
+            "紅燒牛肉麵",
+            "半筋半肉麵",
+            "蔥油餅"
+        ],
+        "awards": [
+            "米其林必比登推介"
+        ],
+        "city": "台北市",
+        "district": "大安區",
+        "address": "台北市大安區金山南路二段31巷17號",
+        "latitude": 25.0344,
+        "longitude": 121.5306,
+        "nearest_transit": [
+            {
+                "type": "MRT",
+                "station": "東門站",
+                "line": "信義線",
+                "walk_minutes": 5
+            }
+        ],
+        "has_parking": false,
+        "category": "麵食",
+        "tags": [
+            "牛肉麵",
+            "永康街",
+            "台灣必吃",
+            "老字號"
+        ],
+        "vegetarian_type": "none",
+        "halal": false,
+        "pet_friendly": false,
+        "wifi": false,
+        "power_outlet": false,
+        "private_room": false,
+        "seating": {
+            "dine_in": true,
+            "takeout": false,
+            "delivery": false
+        },
+        "open_hours": {
+            "monday": "11:00-21:00",
+            "tuesday": "公休",
+            "wednesday": "11:00-21:00",
+            "thursday": "11:00-21:00",
+            "friday": "11:00-21:00",
+            "saturday": "11:00-21:00",
+            "sunday": "11:00-21:00"
+        },
+        "closed_days": [
+            "週二"
+        ],
+        "season": [
+            "四季皆宜"
+        ],
+        "avg_meal_time": 30,
+        "queue_level": "medium",
+        "payment_methods": [
+            "現金"
+        ],
+        "price_range_min": 150,
+        "price_range_max": 320,
+        "price_level": 1,
+        "min_charge": 0,
+        "reservation_required": false,
+        "rating": 4.3,
+        "review_count": 22000,
+        "popularity": "high",
+        "crowdedness": "high"
+    },
+    {
+        "id": "food_006",
+        "name": "欣葉台菜",
+        "aliases": [
+            "欣葉",
+            "中山欣葉",
+            "Shin Yeh"
+        ],
+        "description": "台北中山區的正宗台式辦桌料理代表，以古早味功夫菜見長，菜脯蛋、紅蟳米糕、芋頭鴨是招牌。環境寬敞適合家庭聚餐，多年來深受在地人與觀光客喜愛，是體驗台灣宴席文化的首選餐廳。",
+        "keywords": [
+            "台菜",
+            "辦桌",
+            "中山",
+            "家庭聚餐",
+            "古早味"
+        ],
+        "must_try": [
+            "菜脯蛋",
+            "紅蟳米糕",
+            "芋頭鴨",
+            "蚵仔麵線"
+        ],
+        "awards": [
+            "台灣百大餐廳"
+        ],
+        "city": "台北市",
+        "district": "中山區",
+        "address": "台北市中山區雙城街34-1號",
+        "latitude": 25.0602,
+        "longitude": 121.5253,
+        "nearest_transit": [
+            {
+                "type": "MRT",
+                "station": "雙連站",
+                "line": "淡水信義線",
+                "walk_minutes": 6
+            }
+        ],
+        "has_parking": true,
+        "category": "中式",
+        "tags": [
+            "台菜",
+            "辦桌",
+            "功夫菜",
+            "家庭聚餐",
+            "老字號"
+        ],
+        "vegetarian_type": "partial",
+        "halal": false,
+        "pet_friendly": false,
+        "wifi": true,
+        "power_outlet": false,
+        "private_room": true,
+        "seating": {
+            "dine_in": true,
+            "takeout": false,
+            "delivery": false
+        },
+        "open_hours": {
+            "monday": "11:30-14:30,17:30-21:30",
+            "tuesday": "11:30-14:30,17:30-21:30",
+            "wednesday": "11:30-14:30,17:30-21:30",
+            "thursday": "11:30-14:30,17:30-21:30",
+            "friday": "11:30-14:30,17:30-21:30",
+            "saturday": "11:30-14:30,17:30-21:30",
+            "sunday": "11:30-14:30,17:30-21:30"
+        },
+        "closed_days": [],
+        "season": [
+            "四季皆宜"
+        ],
+        "avg_meal_time": 90,
+        "queue_level": "medium",
+        "payment_methods": [
+            "現金",
+            "信用卡"
+        ],
+        "price_range_min": 400,
+        "price_range_max": 1200,
+        "price_level": 2,
+        "min_charge": 0,
+        "reservation_required": true,
+        "rating": 4.3,
+        "review_count": 18000,
+        "popularity": "high",
+        "crowdedness": "medium"
+    },
+    {
+        "id": "food_007",
+        "name": "士林夜市",
+        "aliases": [
+            "士林",
+            "Shilin Night Market"
+        ],
+        "description": "台北最大、最知名的夜市，地下美食廣場與地面攤位齊備，蚵仔煎、大餅包小餅、豪大雞排是招牌。觀光客與在地人共存，週末人潮洶湧，建議平日傍晚六點前抵達以避開尖峰擁擠。",
+        "keywords": [
+            "夜市",
+            "士林",
+            "蚵仔煎",
+            "雞排",
+            "台灣必訪"
+        ],
+        "must_try": [
+            "蚵仔煎",
+            "大餅包小餅",
+            "豪大雞排",
+            "草莓糖葫蘆",
+            "蚵仔麵線"
+        ],
+        "awards": [],
+        "city": "台北市",
+        "district": "士林區",
+        "address": "台北市士林區基河路101號",
+        "latitude": 25.0877,
+        "longitude": 121.5243,
+        "nearest_transit": [
+            {
+                "type": "MRT",
+                "station": "劍潭站",
+                "line": "淡水信義線",
+                "walk_minutes": 3
+            }
+        ],
+        "has_parking": true,
+        "category": "夜市",
+        "tags": [
+            "夜市",
+            "小吃",
+            "觀光",
+            "台灣必訪",
+            "夜生活"
+        ],
+        "vegetarian_type": "partial",
+        "halal": false,
+        "pet_friendly": false,
+        "wifi": false,
+        "power_outlet": false,
+        "private_room": false,
+        "seating": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": false
+        },
+        "open_hours": {
+            "monday": "17:00-00:00",
+            "tuesday": "17:00-00:00",
+            "wednesday": "17:00-00:00",
+            "thursday": "17:00-00:00",
+            "friday": "17:00-01:00",
+            "saturday": "16:00-01:00",
+            "sunday": "16:00-00:00"
+        },
+        "closed_days": [],
+        "season": [
+            "四季皆宜"
+        ],
+        "avg_meal_time": 60,
+        "queue_level": "medium",
+        "payment_methods": [
+            "現金"
+        ],
+        "price_range_min": 50,
+        "price_range_max": 300,
+        "price_level": 1,
+        "min_charge": 0,
+        "reservation_required": false,
+        "rating": 4.2,
+        "review_count": 85000,
+        "popularity": "high",
+        "crowdedness": "high"
+    },
+    {
+        "id": "food_008",
+        "name": "饒河街夜市",
+        "aliases": [
+            "饒河夜市",
+            "松山夜市",
+            "Raohe Night Market"
+        ],
+        "description": "台北松山區的百年老夜市，全長約600公尺的直線街道，福州世祖胡椒餅是必吃地標。比士林夜市小巧卻不失精彩，在地攤位比例高，食物品質穩定，是體驗真實台灣夜市文化的好選擇。",
+        "keywords": [
+            "夜市",
+            "胡椒餅",
+            "松山",
+            "百年夜市",
+            "台北"
+        ],
+        "must_try": [
+            "福州胡椒餅",
+            "藥燉排骨",
+            "筒仔米糕",
+            "蚵仔麵線"
+        ],
+        "awards": [],
+        "city": "台北市",
+        "district": "松山區",
+        "address": "台北市松山區饒河街",
+        "latitude": 25.0500,
+        "longitude": 121.5770,
+        "nearest_transit": [
+            {
+                "type": "MRT",
+                "station": "松山站",
+                "line": "松山新店線",
+                "walk_minutes": 5
+            }
+        ],
+        "has_parking": false,
+        "category": "夜市",
+        "tags": [
+            "夜市",
+            "小吃",
+            "胡椒餅",
+            "松山",
+            "在地"
+        ],
+        "vegetarian_type": "partial",
+        "halal": false,
+        "pet_friendly": false,
+        "wifi": false,
+        "power_outlet": false,
+        "private_room": false,
+        "seating": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": false
+        },
+        "open_hours": {
+            "monday": "17:00-00:00",
+            "tuesday": "17:00-00:00",
+            "wednesday": "17:00-00:00",
+            "thursday": "17:00-00:00",
+            "friday": "17:00-00:30",
+            "saturday": "17:00-00:30",
+            "sunday": "17:00-00:00"
+        },
+        "closed_days": [],
+        "season": [
+            "四季皆宜"
+        ],
+        "avg_meal_time": 60,
+        "queue_level": "medium",
+        "payment_methods": [
+            "現金"
+        ],
+        "price_range_min": 40,
+        "price_range_max": 250,
+        "price_level": 1,
+        "min_charge": 0,
+        "reservation_required": false,
+        "rating": 4.3,
+        "review_count": 62000,
+        "popularity": "high",
+        "crowdedness": "high"
+    },
+    {
+        "id": "food_009",
+        "name": "寧夏夜市",
+        "aliases": [
+            "寧夏路夜市",
+            "大同夜市"
+        ],
+        "description": "台北大同區的台式美食精華夜市，以蚵仔煎、豬血糕、燒麻糬聞名。夜市規模雖小，但攤位密集、品質整齊，是台北在地人最推薦的親切夜市，也是感受台灣庶民飲食文化的理想場所。",
+        "keywords": [
+            "夜市",
+            "蚵仔煎",
+            "大同",
+            "在地",
+            "台灣庶民美食"
+        ],
+        "must_try": [
+            "蚵仔煎",
+            "豬血糕",
+            "燒麻糬",
+            "肉圓"
+        ],
+        "awards": [],
+        "city": "台北市",
+        "district": "大同區",
+        "address": "台北市大同區寧夏路",
+        "latitude": 25.0570,
+        "longitude": 121.5141,
+        "nearest_transit": [
+            {
+                "type": "MRT",
+                "station": "中山站",
+                "line": "淡水信義線",
+                "walk_minutes": 10
+            }
+        ],
+        "has_parking": false,
+        "category": "夜市",
+        "tags": [
+            "夜市",
+            "台灣小吃",
+            "在地",
+            "平價",
+            "庶民美食"
+        ],
+        "vegetarian_type": "partial",
+        "halal": false,
+        "pet_friendly": false,
+        "wifi": false,
+        "power_outlet": false,
+        "private_room": false,
+        "seating": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": false
+        },
+        "open_hours": {
+            "monday": "18:00-00:00",
+            "tuesday": "18:00-00:00",
+            "wednesday": "18:00-00:00",
+            "thursday": "18:00-00:00",
+            "friday": "18:00-00:30",
+            "saturday": "17:00-00:30",
+            "sunday": "17:00-00:00"
+        },
+        "closed_days": [],
+        "season": [
+            "四季皆宜"
+        ],
+        "avg_meal_time": 45,
+        "queue_level": "short",
+        "payment_methods": [
+            "現金"
+        ],
+        "price_range_min": 30,
+        "price_range_max": 200,
+        "price_level": 1,
+        "min_charge": 0,
+        "reservation_required": false,
+        "rating": 4.2,
+        "review_count": 30000,
+        "popularity": "high",
+        "crowdedness": "medium"
+    },
+    {
+        "id": "food_010",
+        "name": "春水堂台北大安店",
+        "aliases": [
+            "春水堂",
+            "珍珠奶茶發源地",
+            "Chun Shui Tang"
+        ],
+        "description": "珍珠奶茶的起源地之一，以古法沖泡茶飲搭配自製粉圓享譽全台。除飲品外，台式功夫麵食同樣出色。環境典雅適合下午茶，同時販售茶葉周邊，是體驗台灣茶飲文化與珍珠奶茶歷史的必訪品牌。",
+        "keywords": [
+            "珍珠奶茶",
+            "手搖飲",
+            "下午茶",
+            "大安",
+            "台灣之光"
+        ],
+        "must_try": [
+            "珍珠奶茶",
+            "四季春奶茶",
+            "阿薩姆奶茶",
+            "雞絲麵"
+        ],
+        "awards": [
+            "CNN全球必喝飲品"
+        ],
+        "city": "台北市",
+        "district": "大安區",
+        "address": "台北市大安區永康街21號",
+        "latitude": 25.0320,
+        "longitude": 121.5295,
+        "nearest_transit": [
+            {
+                "type": "MRT",
+                "station": "東門站",
+                "line": "信義線",
+                "walk_minutes": 4
+            }
+        ],
+        "has_parking": false,
+        "category": "甜點",
+        "tags": [
+            "珍珠奶茶",
+            "手搖飲",
+            "下午茶",
+            "台灣必喝",
+            "老品牌"
+        ],
+        "vegetarian_type": "lacto_ovo",
+        "halal": false,
+        "pet_friendly": false,
+        "wifi": true,
+        "power_outlet": true,
+        "private_room": false,
+        "seating": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": true
+        },
+        "open_hours": {
+            "monday": "10:30-22:00",
+            "tuesday": "10:30-22:00",
+            "wednesday": "10:30-22:00",
+            "thursday": "10:30-22:00",
+            "friday": "10:30-22:30",
+            "saturday": "10:00-22:30",
+            "sunday": "10:00-22:00"
+        },
+        "closed_days": [],
+        "season": [
+            "四季皆宜"
+        ],
+        "avg_meal_time": 45,
+        "queue_level": "short",
+        "payment_methods": [
+            "現金",
+            "信用卡",
+            "行動支付"
+        ],
+        "price_range_min": 80,
+        "price_range_max": 250,
+        "price_level": 1,
+        "min_charge": 0,
+        "reservation_required": false,
+        "rating": 4.2,
+        "review_count": 25000,
+        "popularity": "high",
+        "crowdedness": "medium"
+    },
+    {
+        "id": "food_011",
+        "name": "蜷尾家甜點",
+        "aliases": [
+            "蜷尾家",
+            "Taiwan Ice Cream",
+            "甜點冰淇淋"
+        ],
+        "description": "台北以台灣在地食材製作義式冰淇淋的人氣甜點店，鳳梨、芋頭、黑糖等台灣味濃郁。冰淇淋口感綿密、風味獨特，每季推出限定口味，深受年輕族群喜愛，常需排隊等候，值得一試。",
+        "keywords": [
+            "冰淇淋",
+            "台灣食材",
+            "甜點",
+            "文青",
+            "排隊"
+        ],
+        "must_try": [
+            "台灣鳳梨冰淇淋",
+            "芋頭冰淇淋",
+            "黑糖冰淇淋",
+            "季節限定口味"
+        ],
+        "awards": [],
+        "city": "台北市",
+        "district": "中正區",
+        "address": "台北市中正區牯嶺街60號",
+        "latitude": 25.0350,
+        "longitude": 121.5150,
+        "nearest_transit": [
+            {
+                "type": "MRT",
+                "station": "古亭站",
+                "line": "新店線",
+                "walk_minutes": 8
+            }
+        ],
+        "has_parking": false,
+        "category": "甜點",
+        "tags": [
+            "冰淇淋",
+            "台灣食材",
+            "文青",
+            "下午茶",
+            "打卡"
+        ],
+        "vegetarian_type": "lacto_ovo",
+        "halal": false,
+        "pet_friendly": true,
+        "wifi": false,
+        "power_outlet": false,
+        "private_room": false,
+        "seating": {
+            "dine_in": false,
+            "takeout": true,
+            "delivery": false
+        },
+        "open_hours": {
+            "monday": "公休",
+            "tuesday": "13:00-21:00",
+            "wednesday": "13:00-21:00",
+            "thursday": "13:00-21:00",
+            "friday": "13:00-21:30",
+            "saturday": "12:00-21:30",
+            "sunday": "12:00-21:00"
+        },
+        "closed_days": [
+            "週一"
+        ],
+        "season": [
+            "四季皆宜"
+        ],
+        "avg_meal_time": 15,
+        "queue_level": "medium",
+        "payment_methods": [
+            "現金",
+            "行動支付"
+        ],
+        "price_range_min": 80,
+        "price_range_max": 180,
+        "price_level": 1,
+        "min_charge": 0,
+        "reservation_required": false,
+        "rating": 4.4,
+        "review_count": 18000,
+        "popularity": "high",
+        "crowdedness": "medium"
+    },
+    {
+        "id": "food_012",
+        "name": "鼎王麻辣鍋",
+        "aliases": [
+            "鼎王",
+            "松山麻辣鍋"
+        ],
+        "description": "台北以「麻辣蟹」聞名的高檔麻辣火鍋店，湯底層次豐富、辣度可調，食材新鮮量足。用餐環境典雅，適合商務宴客或家庭聚餐，需提前預約。滿滿一桌海鮮與豆腐是最受歡迎的組合搭配。",
+        "keywords": [
+            "麻辣鍋",
+            "火鍋",
+            "海鮮",
+            "松山",
+            "高檔"
+        ],
+        "must_try": [
+            "麻辣蟹",
+            "鴨血豆腐",
+            "現撈海鮮",
+            "麻辣湯底"
+        ],
+        "awards": [
+            "台灣百大餐廳"
+        ],
+        "city": "台北市",
+        "district": "松山區",
+        "address": "台北市松山區南京東路三段248號",
+        "latitude": 25.0519,
+        "longitude": 121.5541,
+        "nearest_transit": [
+            {
+                "type": "MRT",
+                "station": "南京三民站",
+                "line": "松山新店線",
+                "walk_minutes": 5
+            }
+        ],
+        "has_parking": true,
+        "category": "火鍋",
+        "tags": [
+            "麻辣鍋",
+            "火鍋",
+            "海鮮",
+            "聚餐",
+            "高檔"
+        ],
+        "vegetarian_type": "none",
+        "halal": false,
+        "pet_friendly": false,
+        "wifi": true,
+        "power_outlet": false,
+        "private_room": true,
+        "seating": {
+            "dine_in": true,
+            "takeout": false,
+            "delivery": false
+        },
+        "open_hours": {
+            "monday": "11:30-23:00",
+            "tuesday": "11:30-23:00",
+            "wednesday": "11:30-23:00",
+            "thursday": "11:30-23:00",
+            "friday": "11:30-23:30",
+            "saturday": "11:00-23:30",
+            "sunday": "11:00-23:00"
+        },
+        "closed_days": [],
+        "season": [
+            "四季皆宜"
+        ],
+        "avg_meal_time": 120,
+        "queue_level": "long",
+        "payment_methods": [
+            "現金",
+            "信用卡"
+        ],
+        "price_range_min": 800,
+        "price_range_max": 2000,
+        "price_level": 3,
+        "min_charge": 0,
+        "reservation_required": true,
+        "rating": 4.4,
+        "review_count": 22000,
+        "popularity": "high",
+        "crowdedness": "high"
+    },
+    {
+        "id": "food_013",
+        "name": "乾杯燒肉信義店",
+        "aliases": [
+            "乾杯",
+            "Kanpai Yakiniku"
+        ],
+        "description": "台北信義區的日式燒肉連鎖名店，以「乾杯」文化聞名，提供高品質黑毛和牛與海鮮燒烤。用餐氣氛熱鬧，適合朋友聚會或慶生。燈光微暗、音樂歡快，深夜依然座無虛席，建議提前訂位。",
+        "keywords": [
+            "燒肉",
+            "和牛",
+            "信義",
+            "聚餐",
+            "日式"
+        ],
+        "must_try": [
+            "黑毛和牛牛舌",
+            "和牛肩脊肉",
+            "特上里肌",
+            "燒肉飯"
+        ],
+        "awards": [],
+        "city": "台北市",
+        "district": "信義區",
+        "address": "台北市信義區松壽路9號4樓",
+        "latitude": 25.0354,
+        "longitude": 121.5662,
+        "nearest_transit": [
+            {
+                "type": "MRT",
+                "station": "台北101/世貿站",
+                "line": "信義線",
+                "walk_minutes": 5
+            }
+        ],
+        "has_parking": true,
+        "category": "燒烤",
+        "tags": [
+            "燒肉",
+            "和牛",
+            "日式",
+            "聚餐",
+            "夜生活"
+        ],
+        "vegetarian_type": "none",
+        "halal": false,
+        "pet_friendly": false,
+        "wifi": true,
+        "power_outlet": false,
+        "private_room": true,
+        "seating": {
+            "dine_in": true,
+            "takeout": false,
+            "delivery": false
+        },
+        "open_hours": {
+            "monday": "17:30-01:00",
+            "tuesday": "17:30-01:00",
+            "wednesday": "17:30-01:00",
+            "thursday": "17:30-01:00",
+            "friday": "17:30-02:00",
+            "saturday": "17:00-02:00",
+            "sunday": "17:00-01:00"
+        },
+        "closed_days": [],
+        "season": [
+            "四季皆宜"
+        ],
+        "avg_meal_time": 120,
+        "queue_level": "long",
+        "payment_methods": [
+            "現金",
+            "信用卡",
+            "行動支付"
+        ],
+        "price_range_min": 1000,
+        "price_range_max": 3000,
+        "price_level": 3,
+        "min_charge": 0,
+        "reservation_required": true,
+        "rating": 4.3,
+        "review_count": 28000,
+        "popularity": "high",
+        "crowdedness": "high"
+    },
+    {
+        "id": "food_014",
+        "name": "東區粉圓",
+        "aliases": [
+            "粉圓冰",
+            "忠孝東路粉圓"
+        ],
+        "description": "台北東區的消暑冰品老店，Q彈透亮的粉圓是主角，搭配紅豆、花生、芋圓等配料自由組合。夏季排隊人潮可繞半條街，冬天也提供溫熱版本。平價高CP值，是台北東區逛街後最佳的甜品解渴選擇。",
+        "keywords": [
+            "粉圓",
+            "冰品",
+            "東區",
+            "古早味",
+            "平價"
+        ],
+        "must_try": [
+            "粉圓冰",
+            "芋圓冰",
+            "綜合冰"
+        ],
+        "awards": [],
+        "city": "台北市",
+        "district": "大安區",
+        "address": "台北市大安區忠孝東路四段216巷38號",
+        "latitude": 25.0417,
+        "longitude": 121.5508,
+        "nearest_transit": [
+            {
+                "type": "MRT",
+                "station": "忠孝敦化站",
+                "line": "板南線",
+                "walk_minutes": 5
+            }
+        ],
+        "has_parking": false,
+        "category": "甜點",
+        "tags": [
+            "冰品",
+            "粉圓",
+            "古早味",
+            "平價",
+            "消暑"
+        ],
+        "vegetarian_type": "vegan",
+        "halal": false,
+        "pet_friendly": false,
+        "wifi": false,
+        "power_outlet": false,
+        "private_room": false,
+        "seating": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": false
+        },
+        "open_hours": {
+            "monday": "11:00-22:30",
+            "tuesday": "11:00-22:30",
+            "wednesday": "11:00-22:30",
+            "thursday": "11:00-22:30",
+            "friday": "11:00-23:00",
+            "saturday": "11:00-23:00",
+            "sunday": "11:00-22:30"
+        },
+        "closed_days": [],
+        "season": [
+            "四季皆宜"
+        ],
+        "avg_meal_time": 15,
+        "queue_level": "medium",
+        "payment_methods": [
+            "現金"
+        ],
+        "price_range_min": 30,
+        "price_range_max": 80,
+        "price_level": 1,
+        "min_charge": 0,
+        "reservation_required": false,
+        "rating": 4.1,
+        "review_count": 15000,
+        "popularity": "high",
+        "crowdedness": "high"
+    },
+    {
+        "id": "food_015",
+        "name": "天津蔥抓餅",
+        "aliases": [
+            "蔥抓餅",
+            "師大蔥抓餅"
+        ],
+        "description": "台北師大附近的蔥抓餅代表，餅皮層次分明、外酥內Q，蔥香濃郁，可加蛋或起司增添風味。現點現做，每張餅約需等候5分鐘。深受學生族群喜愛，午後至深夜皆有人潮，是台北街頭小吃的代表作之一。",
+        "keywords": [
+            "蔥抓餅",
+            "街頭小吃",
+            "師大",
+            "平價",
+            "現做"
+        ],
+        "must_try": [
+            "蔥抓餅加蛋",
+            "起司蔥抓餅",
+            "辣味蔥抓餅"
+        ],
+        "awards": [],
+        "city": "台北市",
+        "district": "大安區",
+        "address": "台北市大安區師大路49巷口",
+        "latitude": 25.0248,
+        "longitude": 121.5294,
+        "nearest_transit": [
+            {
+                "type": "MRT",
+                "station": "台電大樓站",
+                "line": "新店線",
+                "walk_minutes": 6
+            }
+        ],
+        "has_parking": false,
+        "category": "小吃",
+        "tags": [
+            "蔥抓餅",
+            "街頭小吃",
+            "平價",
+            "現做",
+            "學生最愛"
+        ],
+        "vegetarian_type": "lacto_ovo",
+        "halal": false,
+        "pet_friendly": true,
+        "wifi": false,
+        "power_outlet": false,
+        "private_room": false,
+        "seating": {
+            "dine_in": false,
+            "takeout": true,
+            "delivery": false
+        },
+        "open_hours": {
+            "monday": "公休",
+            "tuesday": "11:00-22:00",
+            "wednesday": "11:00-22:00",
+            "thursday": "11:00-22:00",
+            "friday": "11:00-22:00",
+            "saturday": "11:00-22:00",
+            "sunday": "11:00-22:00"
+        },
+        "closed_days": [
+            "週一"
+        ],
+        "season": [
+            "四季皆宜"
+        ],
+        "avg_meal_time": 10,
+        "queue_level": "short",
+        "payment_methods": [
+            "現金"
+        ],
+        "price_range_min": 35,
+        "price_range_max": 70,
+        "price_level": 1,
+        "min_charge": 0,
+        "reservation_required": false,
+        "rating": 4.2,
+        "review_count": 12000,
+        "popularity": "high",
+        "crowdedness": "medium"
+    },
+    {
+        "id": "food_016",
+        "name": "阿妹茶樓",
+        "aliases": [
+            "九份阿妹茶樓",
+            "A-Mei Teahouse"
+        ],
+        "description": "坐落九份山城的百年茶樓，紅燈籠搖曳、俯瞰基隆海灣的夜景令人屏息，傳說是宮崎駿《神隱少女》的靈感來源之一。提供台式茶點與古早味小吃，傍晚入夜後燈火通明氣氛最佳，是九份必打卡地標。",
+        "keywords": [
+            "茶樓",
+            "九份",
+            "夜景",
+            "紅燈籠",
+            "神隱少女"
+        ],
+        "must_try": [
+            "阿妹茶",
+            "芋圓甜湯",
+            "豬血糕",
+            "牛奶糰子"
+        ],
+        "awards": [],
+        "city": "新北市",
+        "district": "瑞芳區",
+        "address": "新北市瑞芳區豎崎路20號",
+        "latitude": 25.1085,
+        "longitude": 121.8440,
+        "nearest_transit": [
+            {
+                "type": "TRA",
+                "station": "瑞芳站",
+                "line": null,
+                "walk_minutes": 30
+            }
+        ],
+        "has_parking": false,
+        "category": "咖啡",
+        "tags": [
+            "茶樓",
+            "夜景",
+            "九份",
+            "文青",
+            "打卡"
+        ],
+        "vegetarian_type": "lacto_ovo",
+        "halal": false,
+        "pet_friendly": false,
+        "wifi": false,
+        "power_outlet": false,
+        "private_room": false,
+        "seating": {
+            "dine_in": true,
+            "takeout": false,
+            "delivery": false
+        },
+        "open_hours": {
+            "monday": "10:00-22:00",
+            "tuesday": "10:00-22:00",
+            "wednesday": "10:00-22:00",
+            "thursday": "10:00-22:00",
+            "friday": "10:00-23:00",
+            "saturday": "09:00-23:00",
+            "sunday": "09:00-22:00"
+        },
+        "closed_days": [],
+        "season": [
+            "四季皆宜"
+        ],
+        "avg_meal_time": 60,
+        "queue_level": "long",
+        "payment_methods": [
+            "現金",
+            "信用卡"
+        ],
+        "price_range_min": 150,
+        "price_range_max": 400,
+        "price_level": 2,
+        "min_charge": 150,
+        "reservation_required": false,
+        "rating": 4.2,
+        "review_count": 35000,
+        "popularity": "high",
+        "crowdedness": "high"
+    },
+    {
+        "id": "food_017",
+        "name": "淡水阿給",
+        "aliases": [
+            "阿給",
+            "淡水老街阿給"
+        ],
+        "description": "淡水老街的在地特色小吃，以油豆腐包裹冬粉、淋上魚漿封口，搭配魚丸湯是絕配組合。外皮Q軟、內餡飽滿，淡水特有的鄉土滋味讓遊客回味無窮。建議在老街漫步同時一邊享用，感受河岸小鎮氛圍。",
+        "keywords": [
+            "阿給",
+            "淡水",
+            "老街",
+            "特色小吃",
+            "油豆腐"
+        ],
+        "must_try": [
+            "阿給",
+            "魚丸湯",
+            "鐵蛋"
+        ],
+        "awards": [],
+        "city": "新北市",
+        "district": "淡水區",
+        "address": "新北市淡水區中正路230巷11號",
+        "latitude": 25.1726,
+        "longitude": 121.4421,
+        "nearest_transit": [
+            {
+                "type": "MRT",
+                "station": "淡水站",
+                "line": "淡水信義線",
+                "walk_minutes": 8
+            }
+        ],
+        "has_parking": false,
+        "category": "小吃",
+        "tags": [
+            "阿給",
+            "淡水",
+            "老街",
+            "特色小吃"
+        ],
+        "vegetarian_type": "none",
+        "halal": false,
+        "pet_friendly": true,
+        "wifi": false,
+        "power_outlet": false,
+        "private_room": false,
+        "seating": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": false
+        },
+        "open_hours": {
+            "monday": "公休",
+            "tuesday": "09:00-19:00",
+            "wednesday": "09:00-19:00",
+            "thursday": "09:00-19:00",
+            "friday": "09:00-19:30",
+            "saturday": "08:30-20:00",
+            "sunday": "08:30-19:30"
+        },
+        "closed_days": [
+            "週一"
+        ],
+        "season": [
+            "四季皆宜"
+        ],
+        "avg_meal_time": 15,
+        "queue_level": "short",
+        "payment_methods": [
+            "現金"
+        ],
+        "price_range_min": 35,
+        "price_range_max": 80,
+        "price_level": 1,
+        "min_charge": 0,
+        "reservation_required": false,
+        "rating": 4.1,
+        "review_count": 18000,
+        "popularity": "high",
+        "crowdedness": "medium"
+    },
+    {
+        "id": "food_018",
+        "name": "基隆廟口夜市",
+        "aliases": [
+            "基隆廟口",
+            "奠濟宮夜市",
+            "Keelung Miaokou"
+        ],
+        "description": "台灣歷史最悠久的夜市之一，鼎邊趖、天婦羅、豆簽羹是三大鎮市小吃。攤位密集、燈火通明，白天也有部分攤位營業。基隆特有的漁港鮮貨讓海鮮小吃格外新鮮，是離台北最近的海港夜市體驗。",
+        "keywords": [
+            "夜市",
+            "廟口",
+            "基隆",
+            "海鮮",
+            "鼎邊趖"
+        ],
+        "must_try": [
+            "鼎邊趖",
+            "基隆天婦羅",
+            "豆簽羹",
+            "蝦仁羹"
+        ],
+        "awards": [],
+        "city": "基隆市",
+        "district": "仁愛區",
+        "address": "基隆市仁愛區愛三路",
+        "latitude": 25.1282,
+        "longitude": 121.7411,
+        "nearest_transit": [
+            {
+                "type": "TRA",
+                "station": "基隆站",
+                "line": null,
+                "walk_minutes": 10
+            }
+        ],
+        "has_parking": false,
+        "category": "夜市",
+        "tags": [
+            "夜市",
+            "海鮮",
+            "廟口",
+            "基隆",
+            "在地"
+        ],
+        "vegetarian_type": "partial",
+        "halal": false,
+        "pet_friendly": false,
+        "wifi": false,
+        "power_outlet": false,
+        "private_room": false,
+        "seating": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": false
+        },
+        "open_hours": {
+            "monday": "09:00-01:00",
+            "tuesday": "09:00-01:00",
+            "wednesday": "09:00-01:00",
+            "thursday": "09:00-01:00",
+            "friday": "09:00-02:00",
+            "saturday": "09:00-02:00",
+            "sunday": "09:00-01:00"
+        },
+        "closed_days": [],
+        "season": [
+            "四季皆宜"
+        ],
+        "avg_meal_time": 60,
+        "queue_level": "medium",
+        "payment_methods": [
+            "現金"
+        ],
+        "price_range_min": 30,
+        "price_range_max": 300,
+        "price_level": 1,
+        "min_charge": 0,
+        "reservation_required": false,
+        "rating": 4.3,
+        "review_count": 45000,
+        "popularity": "high",
+        "crowdedness": "high"
+    },
+    {
+        "id": "food_019",
+        "name": "台中逢甲夜市",
+        "aliases": [
+            "逢甲夜市",
+            "Fengjia Night Market"
+        ],
+        "description": "台灣規模最大的夜市之一，以創意小吃聞名全台，包心粉圓、雞排、炸肉圓是必吃招牌。攤位超過300個，每週末人潮可達十萬人次，建議早到佔位，周邊商圈也適合逛街購物，是台中夜生活核心地帶。",
+        "keywords": [
+            "夜市",
+            "逢甲",
+            "台中",
+            "創意小吃",
+            "規模最大"
+        ],
+        "must_try": [
+            "包心粉圓",
+            "大雞排",
+            "炸肉圓",
+            "蜜汁豬肋排"
+        ],
+        "awards": [],
+        "city": "台中市",
+        "district": "西屯區",
+        "address": "台中市西屯區逢甲路",
+        "latitude": 24.1841,
+        "longitude": 120.6440,
+        "nearest_transit": [
+            {
+                "type": "BUS",
+                "station": "逢甲大學站",
+                "line": null,
+                "walk_minutes": 2
+            }
+        ],
+        "has_parking": true,
+        "category": "夜市",
+        "tags": [
+            "夜市",
+            "創意小吃",
+            "台中",
+            "規模大",
+            "夜生活"
+        ],
+        "vegetarian_type": "partial",
+        "halal": false,
+        "pet_friendly": false,
+        "wifi": false,
+        "power_outlet": false,
+        "private_room": false,
+        "seating": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": false
+        },
+        "open_hours": {
+            "monday": "17:00-01:00",
+            "tuesday": "17:00-01:00",
+            "wednesday": "17:00-01:00",
+            "thursday": "17:00-01:00",
+            "friday": "17:00-02:00",
+            "saturday": "16:00-02:00",
+            "sunday": "16:00-01:00"
+        },
+        "closed_days": [],
+        "season": [
+            "四季皆宜"
+        ],
+        "avg_meal_time": 60,
+        "queue_level": "medium",
+        "payment_methods": [
+            "現金"
+        ],
+        "price_range_min": 30,
+        "price_range_max": 250,
+        "price_level": 1,
+        "min_charge": 0,
+        "reservation_required": false,
+        "rating": 4.2,
+        "review_count": 72000,
+        "popularity": "high",
+        "crowdedness": "high"
+    },
+    {
+        "id": "food_020",
+        "name": "宮原眼科冰淇淋",
+        "aliases": [
+            "宮原眼科",
+            "日出宮原眼科"
+        ],
+        "description": "台中最夢幻的冰淇淋店，前身為日治時期眼科醫院，現以華麗英倫風格改造為甜點品牌。冰淇淋球造型精緻、口味多元，鳳梨酥造型甜點也是必買伴手禮。光是排隊拿到甜筒就是一段打卡體驗。",
+        "keywords": [
+            "冰淇淋",
+            "打卡",
+            "台中",
+            "甜點",
+            "伴手禮"
+        ],
+        "must_try": [
+            "冰淇淋球塔",
+            "招牌鳳梨酥",
+            "太陽餅",
+            "芋頭冰淇淋"
+        ],
+        "awards": [],
+        "city": "台中市",
+        "district": "中區",
+        "address": "台中市中區中山路20號",
+        "latitude": 24.1374,
+        "longitude": 120.6850,
+        "nearest_transit": [
+            {
+                "type": "TRA",
+                "station": "台中站",
+                "line": null,
+                "walk_minutes": 8
+            }
+        ],
+        "has_parking": true,
+        "category": "甜點",
+        "tags": [
+            "冰淇淋",
+            "打卡",
+            "伴手禮",
+            "台中文青",
+            "歷史建築"
+        ],
+        "vegetarian_type": "lacto_ovo",
+        "halal": false,
+        "pet_friendly": false,
+        "wifi": true,
+        "power_outlet": false,
+        "private_room": false,
+        "seating": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": false
+        },
+        "open_hours": {
+            "monday": "10:00-22:00",
+            "tuesday": "10:00-22:00",
+            "wednesday": "10:00-22:00",
+            "thursday": "10:00-22:00",
+            "friday": "10:00-22:30",
+            "saturday": "09:30-22:30",
+            "sunday": "09:30-22:00"
+        },
+        "closed_days": [],
+        "season": [
+            "四季皆宜"
+        ],
+        "avg_meal_time": 30,
+        "queue_level": "long",
+        "payment_methods": [
+            "現金",
+            "信用卡"
+        ],
+        "price_range_min": 150,
+        "price_range_max": 500,
+        "price_level": 2,
+        "min_charge": 0,
+        "reservation_required": false,
+        "rating": 4.3,
+        "review_count": 48000,
+        "popularity": "high",
+        "crowdedness": "high"
+    },
+    {
+        "id": "food_021",
+        "name": "彰化肉圓老店",
+        "aliases": [
+            "彰化肉圓",
+            "阿章肉圓"
+        ],
+        "description": "彰化獨特的半透明外皮肉圓，以在來米漿製皮，包裹豬肉、筍丁餡料，炸至半熟後淋上甜辣醬。口感外Q內軟，與台南蒸式肉圓迥異。是前往彰化旅遊必吃的地方名產，建議搭配貢丸湯一起品嚐。",
+        "keywords": [
+            "肉圓",
+            "彰化",
+            "特色小吃",
+            "在地名產",
+            "古早味"
+        ],
+        "must_try": [
+            "彰化肉圓",
+            "貢丸湯",
+            "豬血湯"
+        ],
+        "awards": [],
+        "city": "彰化縣",
+        "district": "彰化市",
+        "address": "彰化縣彰化市中華路一段",
+        "latitude": 24.0829,
+        "longitude": 120.5384,
+        "nearest_transit": [
+            {
+                "type": "TRA",
+                "station": "彰化站",
+                "line": null,
+                "walk_minutes": 15
+            }
+        ],
+        "has_parking": false,
+        "category": "小吃",
+        "tags": [
+            "肉圓",
+            "彰化",
+            "在地名產",
+            "古早味"
+        ],
+        "vegetarian_type": "none",
+        "halal": false,
+        "pet_friendly": false,
+        "wifi": false,
+        "power_outlet": false,
+        "private_room": false,
+        "seating": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": false
+        },
+        "open_hours": {
+            "monday": "07:00-18:00",
+            "tuesday": "07:00-18:00",
+            "wednesday": "07:00-18:00",
+            "thursday": "07:00-18:00",
+            "friday": "07:00-18:00",
+            "saturday": "07:00-18:00",
+            "sunday": "07:00-17:00"
+        },
+        "closed_days": [],
+        "season": [
+            "四季皆宜"
+        ],
+        "avg_meal_time": 20,
+        "queue_level": "short",
+        "payment_methods": [
+            "現金"
+        ],
+        "price_range_min": 25,
+        "price_range_max": 80,
+        "price_level": 1,
+        "min_charge": 0,
+        "reservation_required": false,
+        "rating": 4.2,
+        "review_count": 9500,
+        "popularity": "medium",
+        "crowdedness": "medium"
+    },
+    {
+        "id": "food_022",
+        "name": "度小月擔仔麵台南本店",
+        "aliases": [
+            "度小月",
+            "擔仔麵",
+            "台南度小月"
+        ],
+        "description": "創立於1895年的台南擔仔麵元祖，湯底以蝦頭熬製，香氣濃郁，搭配滷肉燥與貢丸，分量精緻小巧。正宗的傳統做法延續百年不變，是台南飲食文化的活歷史，前往台南旅遊務必朝聖一碗。",
+        "keywords": [
+            "擔仔麵",
+            "台南",
+            "百年老店",
+            "蝦湯",
+            "小吃"
+        ],
+        "must_try": [
+            "招牌擔仔麵",
+            "蝦仁飯",
+            "赤崁棺材板",
+            "滷蛋"
+        ],
+        "awards": [
+            "台灣百年老店"
+        ],
+        "city": "台南市",
+        "district": "中西區",
+        "address": "台南市中西區中正路101號",
+        "latitude": 22.9924,
+        "longitude": 120.2059,
+        "nearest_transit": [
+            {
+                "type": "BUS",
+                "station": "赤崁樓站",
+                "line": null,
+                "walk_minutes": 5
+            }
+        ],
+        "has_parking": false,
+        "category": "麵食",
+        "tags": [
+            "擔仔麵",
+            "台南",
+            "百年老店",
+            "台灣必吃"
+        ],
+        "vegetarian_type": "none",
+        "halal": false,
+        "pet_friendly": false,
+        "wifi": false,
+        "power_outlet": false,
+        "private_room": false,
+        "seating": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": false
+        },
+        "open_hours": {
+            "monday": "11:00-22:00",
+            "tuesday": "11:00-22:00",
+            "wednesday": "11:00-22:00",
+            "thursday": "11:00-22:00",
+            "friday": "11:00-22:00",
+            "saturday": "11:00-22:00",
+            "sunday": "11:00-22:00"
+        },
+        "closed_days": [],
+        "season": [
+            "四季皆宜"
+        ],
+        "avg_meal_time": 30,
+        "queue_level": "medium",
+        "payment_methods": [
+            "現金",
+            "信用卡"
+        ],
+        "price_range_min": 60,
+        "price_range_max": 200,
+        "price_level": 1,
+        "min_charge": 0,
+        "reservation_required": false,
+        "rating": 4.4,
+        "review_count": 28000,
+        "popularity": "high",
+        "crowdedness": "high"
+    },
+    {
+        "id": "food_023",
+        "name": "台南鱔魚意麵",
+        "aliases": [
+            "炒鱔魚意麵",
+            "台南炒麵"
+        ],
+        "description": "台南獨有的炒麵料理，以鱔魚段大火快炒搭配意麵，勾芡濃郁、鹹甜帶酸，口感豐富。是台南宵夜文化的代表性食物，多數攤位在傍晚後才開始營業。建議點濕炒版本，湯汁拌麵更入味。",
+        "keywords": [
+            "鱔魚意麵",
+            "台南",
+            "炒麵",
+            "宵夜",
+            "特色小吃"
+        ],
+        "must_try": [
+            "炒鱔魚意麵",
+            "乾炒鱔魚意麵",
+            "鱔魚湯"
+        ],
+        "awards": [],
+        "city": "台南市",
+        "district": "中西區",
+        "address": "台南市中西區保安路",
+        "latitude": 22.9940,
+        "longitude": 120.2048,
+        "nearest_transit": [
+            {
+                "type": "BUS",
+                "station": "成功路口站",
+                "line": null,
+                "walk_minutes": 5
+            }
+        ],
+        "has_parking": false,
+        "category": "麵食",
+        "tags": [
+            "鱔魚意麵",
+            "台南特色",
+            "炒麵",
+            "宵夜"
+        ],
+        "vegetarian_type": "none",
+        "halal": false,
+        "pet_friendly": false,
+        "wifi": false,
+        "power_outlet": false,
+        "private_room": false,
+        "seating": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": false
+        },
+        "open_hours": {
+            "monday": "17:00-23:00",
+            "tuesday": "17:00-23:00",
+            "wednesday": "公休",
+            "thursday": "17:00-23:00",
+            "friday": "17:00-23:30",
+            "saturday": "17:00-23:30",
+            "sunday": "17:00-23:00"
+        },
+        "closed_days": [
+            "週三"
+        ],
+        "season": [
+            "四季皆宜"
+        ],
+        "avg_meal_time": 25,
+        "queue_level": "medium",
+        "payment_methods": [
+            "現金"
+        ],
+        "price_range_min": 70,
+        "price_range_max": 150,
+        "price_level": 1,
+        "min_charge": 0,
+        "reservation_required": false,
+        "rating": 4.3,
+        "review_count": 14000,
+        "popularity": "high",
+        "crowdedness": "medium"
+    },
+    {
+        "id": "food_024",
+        "name": "赤崁棺材板",
+        "aliases": [
+            "棺材板",
+            "台南棺材板"
+        ],
+        "description": "台南發明的特色創意小吃，以厚片吐司油炸後挖空，填入濃郁奶油雞丁內餡，形狀似棺材而得名。外酥內滑嫩，口感層次豐富，是台南中西區赤崁樓周邊最具話題的在地小吃，也是外地人必點的體驗菜。",
+        "keywords": [
+            "棺材板",
+            "台南",
+            "創意小吃",
+            "赤崁樓",
+            "雞丁"
+        ],
+        "must_try": [
+            "招牌棺材板",
+            "海鮮棺材板"
+        ],
+        "awards": [],
+        "city": "台南市",
+        "district": "中西區",
+        "address": "台南市中西區保安路72號",
+        "latitude": 22.9987,
+        "longitude": 120.2013,
+        "nearest_transit": [
+            {
+                "type": "BUS",
+                "station": "赤崁樓站",
+                "line": null,
+                "walk_minutes": 3
+            }
+        ],
+        "has_parking": false,
+        "category": "小吃",
+        "tags": [
+            "棺材板",
+            "台南",
+            "創意小吃",
+            "赤崁樓"
+        ],
+        "vegetarian_type": "none",
+        "halal": false,
+        "pet_friendly": false,
+        "wifi": false,
+        "power_outlet": false,
+        "private_room": false,
+        "seating": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": false
+        },
+        "open_hours": {
+            "monday": "10:00-20:00",
+            "tuesday": "10:00-20:00",
+            "wednesday": "10:00-20:00",
+            "thursday": "10:00-20:00",
+            "friday": "10:00-21:00",
+            "saturday": "09:30-21:00",
+            "sunday": "09:30-20:00"
+        },
+        "closed_days": [],
+        "season": [
+            "四季皆宜"
+        ],
+        "avg_meal_time": 20,
+        "queue_level": "medium",
+        "payment_methods": [
+            "現金"
+        ],
+        "price_range_min": 60,
+        "price_range_max": 120,
+        "price_level": 1,
+        "min_charge": 0,
+        "reservation_required": false,
+        "rating": 4.2,
+        "review_count": 19000,
+        "popularity": "high",
+        "crowdedness": "high"
+    },
+    {
+        "id": "food_025",
+        "name": "台南虱目魚粥",
+        "aliases": [
+            "虱目魚粥",
+            "台南早餐"
+        ],
+        "description": "台南人的靈魂早餐，新鮮虱目魚片煮粥，魚肉細嫩無腥，粥底綿稠香甜。搭配虱目魚皮、魚腸、魚肚等不同部位，是台南飲食文化中最道地的在地早晨風景。清晨五點半即開始販售，賣完即止。",
+        "keywords": [
+            "虱目魚",
+            "粥",
+            "台南早餐",
+            "海鮮",
+            "在地文化"
+        ],
+        "must_try": [
+            "虱目魚肚粥",
+            "虱目魚皮",
+            "虱目魚腸湯"
+        ],
+        "awards": [],
+        "city": "台南市",
+        "district": "中西區",
+        "address": "台南市中西區海安路二段",
+        "latitude": 22.9920,
+        "longitude": 120.2048,
+        "nearest_transit": [
+            {
+                "type": "BUS",
+                "station": "民族路口站",
+                "line": null,
+                "walk_minutes": 5
+            }
+        ],
+        "has_parking": false,
+        "category": "海鮮",
+        "tags": [
+            "虱目魚",
+            "粥",
+            "台南早餐",
+            "海鮮",
+            "在地"
+        ],
+        "vegetarian_type": "none",
+        "halal": false,
+        "pet_friendly": false,
+        "wifi": false,
+        "power_outlet": false,
+        "private_room": false,
+        "seating": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": false
+        },
+        "open_hours": {
+            "monday": "05:30-12:00",
+            "tuesday": "05:30-12:00",
+            "wednesday": "05:30-12:00",
+            "thursday": "05:30-12:00",
+            "friday": "05:30-12:00",
+            "saturday": "05:30-12:00",
+            "sunday": "05:30-12:00"
+        },
+        "closed_days": [],
+        "season": [
+            "四季皆宜"
+        ],
+        "avg_meal_time": 20,
+        "queue_level": "medium",
+        "payment_methods": [
+            "現金"
+        ],
+        "price_range_min": 40,
+        "price_range_max": 120,
+        "price_level": 1,
+        "min_charge": 0,
+        "reservation_required": false,
+        "rating": 4.4,
+        "review_count": 11000,
+        "popularity": "high",
+        "crowdedness": "medium"
+    },
+    {
+        "id": "food_026",
+        "name": "高雄六合夜市",
+        "aliases": [
+            "六合夜市",
+            "Liuhe Night Market"
+        ],
+        "description": "高雄最著名的觀光夜市，以海鮮為最大特色，木瓜牛奶、烤玉米、海鮮燒烤攤位林立。臨近鹽埕區，夜市規模大、道路寬敞，是南台灣夜生活的代表地標，觀光客與在地人皆絡繹不絕。",
+        "keywords": [
+            "夜市",
+            "六合",
+            "高雄",
+            "海鮮",
+            "觀光"
+        ],
+        "must_try": [
+            "木瓜牛奶",
+            "海鮮燒烤",
+            "烤玉米",
+            "蚵仔煎"
+        ],
+        "awards": [],
+        "city": "高雄市",
+        "district": "新興區",
+        "address": "高雄市新興區六合二路",
+        "latitude": 22.6310,
+        "longitude": 120.2988,
+        "nearest_transit": [
+            {
+                "type": "MRT",
+                "station": "美麗島站",
+                "line": "紅線",
+                "walk_minutes": 5
+            }
+        ],
+        "has_parking": false,
+        "category": "夜市",
+        "tags": [
+            "夜市",
+            "海鮮",
+            "高雄",
+            "觀光",
+            "木瓜牛奶"
+        ],
+        "vegetarian_type": "partial",
+        "halal": false,
+        "pet_friendly": false,
+        "wifi": false,
+        "power_outlet": false,
+        "private_room": false,
+        "seating": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": false
+        },
+        "open_hours": {
+            "monday": "17:00-01:00",
+            "tuesday": "17:00-01:00",
+            "wednesday": "17:00-01:00",
+            "thursday": "17:00-01:00",
+            "friday": "17:00-02:00",
+            "saturday": "16:00-02:00",
+            "sunday": "16:00-01:00"
+        },
+        "closed_days": [],
+        "season": [
+            "四季皆宜"
+        ],
+        "avg_meal_time": 60,
+        "queue_level": "medium",
+        "payment_methods": [
+            "現金"
+        ],
+        "price_range_min": 50,
+        "price_range_max": 500,
+        "price_level": 1,
+        "min_charge": 0,
+        "reservation_required": false,
+        "rating": 4.1,
+        "review_count": 55000,
+        "popularity": "high",
+        "crowdedness": "high"
+    },
+    {
+        "id": "food_027",
+        "name": "旗津海產街",
+        "aliases": [
+            "旗津海鮮",
+            "高雄旗津"
+        ],
+        "description": "高雄旗津半島的新鮮海產聚集地，螃蟹、蝦蛄、龍蝦等現撈海鮮即點即煮。渡輪橫渡高雄港後步行即達，搭配旗津老街散步體驗，是高雄一日遊的最佳海鮮饗宴，夏季可順遊旗津海水浴場。",
+        "keywords": [
+            "海鮮",
+            "旗津",
+            "高雄",
+            "現撈",
+            "螃蟹"
+        ],
+        "must_try": [
+            "清蒸螃蟹",
+            "蒜泥蝦蛄",
+            "烤鮮魚",
+            "海鮮湯"
+        ],
+        "awards": [],
+        "city": "高雄市",
+        "district": "旗津區",
+        "address": "高雄市旗津區廟前路",
+        "latitude": 22.6192,
+        "longitude": 120.2670,
+        "nearest_transit": [
+            {
+                "type": "BUS",
+                "station": "鼓山輪渡站",
+                "line": null,
+                "walk_minutes": 5
+            }
+        ],
+        "has_parking": true,
+        "category": "海鮮",
+        "tags": [
+            "海鮮",
+            "現撈",
+            "旗津",
+            "高雄",
+            "一日遊"
+        ],
+        "vegetarian_type": "none",
+        "halal": false,
+        "pet_friendly": true,
+        "wifi": false,
+        "power_outlet": false,
+        "private_room": false,
+        "seating": {
+            "dine_in": true,
+            "takeout": false,
+            "delivery": false
+        },
+        "open_hours": {
+            "monday": "11:00-21:00",
+            "tuesday": "11:00-21:00",
+            "wednesday": "11:00-21:00",
+            "thursday": "11:00-21:00",
+            "friday": "11:00-22:00",
+            "saturday": "10:30-22:00",
+            "sunday": "10:30-21:00"
+        },
+        "closed_days": [],
+        "season": [
+            "春",
+            "夏",
+            "秋"
+        ],
+        "avg_meal_time": 90,
+        "queue_level": "medium",
+        "payment_methods": [
+            "現金"
+        ],
+        "price_range_min": 300,
+        "price_range_max": 1500,
+        "price_level": 2,
+        "min_charge": 0,
+        "reservation_required": false,
+        "rating": 4.2,
+        "review_count": 22000,
+        "popularity": "high",
+        "crowdedness": "medium"
+    },
+    {
+        "id": "food_028",
+        "name": "東港黑鮪魚季",
+        "aliases": [
+            "東港鮪魚",
+            "黑鮪魚生魚片",
+            "東港海鮮"
+        ],
+        "description": "屏東東港是台灣黑鮪魚的最大集散地，每年4至6月鮪魚季期間提供最新鮮的黑鮪魚刺身與各式料理。油脂豐富的大腹、赤身各具風味，搭配當地蝦蛄、紅蟳，是台灣海鮮迷不能錯過的年度盛事。",
+        "keywords": [
+            "黑鮪魚",
+            "東港",
+            "屏東",
+            "刺身",
+            "鮪魚季"
+        ],
+        "must_try": [
+            "黑鮪魚大腹刺身",
+            "黑鮪魚赤身",
+            "蝦蛄",
+            "紅蟳"
+        ],
+        "awards": [],
+        "city": "屏東縣",
+        "district": "東港鎮",
+        "address": "屏東縣東港鎮延平路",
+        "latitude": 22.4652,
+        "longitude": 120.4518,
+        "nearest_transit": [
+            {
+                "type": "BUS",
+                "station": "東港站",
+                "line": null,
+                "walk_minutes": 5
+            }
+        ],
+        "has_parking": true,
+        "category": "海鮮",
+        "tags": [
+            "黑鮪魚",
+            "刺身",
+            "海鮮",
+            "東港",
+            "季節限定"
+        ],
+        "vegetarian_type": "none",
+        "halal": false,
+        "pet_friendly": false,
+        "wifi": false,
+        "power_outlet": false,
+        "private_room": true,
+        "seating": {
+            "dine_in": true,
+            "takeout": false,
+            "delivery": false
+        },
+        "open_hours": {
+            "monday": "11:00-21:00",
+            "tuesday": "11:00-21:00",
+            "wednesday": "11:00-21:00",
+            "thursday": "11:00-21:00",
+            "friday": "11:00-21:30",
+            "saturday": "10:30-21:30",
+            "sunday": "10:30-21:00"
+        },
+        "closed_days": [],
+        "season": [
+            "春",
+            "夏"
+        ],
+        "avg_meal_time": 90,
+        "queue_level": "long",
+        "payment_methods": [
+            "現金",
+            "信用卡"
+        ],
+        "price_range_min": 500,
+        "price_range_max": 3000,
+        "price_level": 3,
+        "min_charge": 0,
+        "reservation_required": true,
+        "rating": 4.5,
+        "review_count": 18000,
+        "popularity": "high",
+        "crowdedness": "high"
+    },
+    {
+        "id": "food_029",
+        "name": "屏東萬巒豬腳",
+        "aliases": [
+            "萬巒豬腳",
+            "客家豬腳"
+        ],
+        "description": "屏東萬巒的客家豬腳以獨門醬料長時間滷製，皮Q肉嫩、醬汁鹹甜入骨，是台灣豬腳中公認最有特色的流派。冷食風味更佳，建議搭配蒜泥一起享用。整條街都是豬腳店，各有特色，可多家比較。",
+        "keywords": [
+            "豬腳",
+            "萬巒",
+            "屏東",
+            "客家",
+            "名產"
+        ],
+        "must_try": [
+            "萬巒豬腳",
+            "豬腳飯",
+            "筍絲"
+        ],
+        "awards": [],
+        "city": "屏東縣",
+        "district": "萬巒鄉",
+        "address": "屏東縣萬巒鄉萬巒村萬生路",
+        "latitude": 22.6060,
+        "longitude": 120.4987,
+        "nearest_transit": [
+            {
+                "type": "BUS",
+                "station": "萬巒站",
+                "line": null,
+                "walk_minutes": 5
+            }
+        ],
+        "has_parking": true,
+        "category": "小吃",
+        "tags": [
+            "豬腳",
+            "客家",
+            "屏東",
+            "名產",
+            "伴手禮"
+        ],
+        "vegetarian_type": "none",
+        "halal": false,
+        "pet_friendly": false,
+        "wifi": false,
+        "power_outlet": false,
+        "private_room": false,
+        "seating": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": true
+        },
+        "open_hours": {
+            "monday": "09:00-19:00",
+            "tuesday": "09:00-19:00",
+            "wednesday": "09:00-19:00",
+            "thursday": "09:00-19:00",
+            "friday": "09:00-19:00",
+            "saturday": "08:30-20:00",
+            "sunday": "08:30-20:00"
+        },
+        "closed_days": [],
+        "season": [
+            "四季皆宜"
+        ],
+        "avg_meal_time": 30,
+        "queue_level": "medium",
+        "payment_methods": [
+            "現金"
+        ],
+        "price_range_min": 100,
+        "price_range_max": 400,
+        "price_level": 1,
+        "min_charge": 0,
+        "reservation_required": false,
+        "rating": 4.3,
+        "review_count": 12000,
+        "popularity": "high",
+        "crowdedness": "medium"
+    },
+    {
+        "id": "food_030",
+        "name": "宜蘭三星蔥油餅",
+        "aliases": [
+            "三星蔥油餅",
+            "宜蘭蔥餅"
+        ],
+        "description": "以宜蘭三星地區特產青蔥製作，餅皮薄脆、蔥香四溢，是宜蘭最具代表性的農業美食。三星蔥因土壤和氣候特殊，蔥白特別長、辛味適中。現場現做，外酥內嫩，出爐即搶購一空，建議假日提早前往。",
+        "keywords": [
+            "蔥油餅",
+            "三星蔥",
+            "宜蘭",
+            "農業美食",
+            "伴手禮"
+        ],
+        "must_try": [
+            "三星蔥油餅",
+            "蔥花蛋餅",
+            "三星蔥禮盒"
+        ],
+        "awards": [],
+        "city": "宜蘭縣",
+        "district": "三星鄉",
+        "address": "宜蘭縣三星鄉中正路",
+        "latitude": 24.6660,
+        "longitude": 121.6520,
+        "nearest_transit": [
+            {
+                "type": "BUS",
+                "station": "三星站",
+                "line": null,
+                "walk_minutes": 3
+            }
+        ],
+        "has_parking": true,
+        "category": "小吃",
+        "tags": [
+            "蔥油餅",
+            "三星蔥",
+            "宜蘭",
+            "農業美食"
+        ],
+        "vegetarian_type": "lacto_ovo",
+        "halal": false,
+        "pet_friendly": true,
+        "wifi": false,
+        "power_outlet": false,
+        "private_room": false,
+        "seating": {
+            "dine_in": false,
+            "takeout": true,
+            "delivery": false
+        },
+        "open_hours": {
+            "monday": "08:00-17:00",
+            "tuesday": "08:00-17:00",
+            "wednesday": "08:00-17:00",
+            "thursday": "08:00-17:00",
+            "friday": "08:00-17:00",
+            "saturday": "07:30-18:00",
+            "sunday": "07:30-18:00"
+        },
+        "closed_days": [],
+        "season": [
+            "四季皆宜"
+        ],
+        "avg_meal_time": 10,
+        "queue_level": "short",
+        "payment_methods": [
+            "現金"
+        ],
+        "price_range_min": 30,
+        "price_range_max": 60,
+        "price_level": 1,
+        "min_charge": 0,
+        "reservation_required": false,
+        "rating": 4.2,
+        "review_count": 8500,
+        "popularity": "medium",
+        "crowdedness": "medium"
+    },
+    {
+        "id": "food_031",
+        "name": "宜蘭卜肉",
+        "aliases": [
+            "炸卜肉",
+            "宜蘭特色小吃"
+        ],
+        "description": "宜蘭獨有的傳統炸物，以豬里肌肉裹太白粉炸至金黃酥脆，外皮香脆、肉質鮮嫩多汁，蘸白胡椒粉食用是宜蘭人的吃法。口感有別於一般炸雞，是來宜蘭必嚐的在地特色美食，觀光客到訪必問的宜蘭名物。",
+        "keywords": [
+            "卜肉",
+            "炸物",
+            "宜蘭",
+            "特色小吃",
+            "里肌肉"
+        ],
+        "must_try": [
+            "卜肉",
+            "炸豬耳朵"
+        ],
+        "awards": [],
+        "city": "宜蘭縣",
+        "district": "宜蘭市",
+        "address": "宜蘭縣宜蘭市中山路",
+        "latitude": 24.7521,
+        "longitude": 121.7554,
+        "nearest_transit": [
+            {
+                "type": "TRA",
+                "station": "宜蘭站",
+                "line": null,
+                "walk_minutes": 10
+            }
+        ],
+        "has_parking": false,
+        "category": "小吃",
+        "tags": [
+            "卜肉",
+            "炸物",
+            "宜蘭",
+            "在地名物"
+        ],
+        "vegetarian_type": "none",
+        "halal": false,
+        "pet_friendly": false,
+        "wifi": false,
+        "power_outlet": false,
+        "private_room": false,
+        "seating": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": false
+        },
+        "open_hours": {
+            "monday": "10:00-21:00",
+            "tuesday": "10:00-21:00",
+            "wednesday": "10:00-21:00",
+            "thursday": "10:00-21:00",
+            "friday": "10:00-21:30",
+            "saturday": "09:30-21:30",
+            "sunday": "09:30-21:00"
+        },
+        "closed_days": [],
+        "season": [
+            "四季皆宜"
+        ],
+        "avg_meal_time": 20,
+        "queue_level": "short",
+        "payment_methods": [
+            "現金"
+        ],
+        "price_range_min": 100,
+        "price_range_max": 250,
+        "price_level": 1,
+        "min_charge": 0,
+        "reservation_required": false,
+        "rating": 4.3,
+        "review_count": 7200,
+        "popularity": "medium",
+        "crowdedness": "medium"
+    },
+    {
+        "id": "food_032",
+        "name": "花蓮公正包子",
+        "aliases": [
+            "公正街包子",
+            "花蓮包子"
+        ],
+        "description": "花蓮最知名的包子老店，皮薄餡大、現蒸現賣，各式口味齊全，肉包鮮嫩多汁最受歡迎。排隊購買已是花蓮旅遊的必要儀式之一，清晨即售罄是常態，建議早起出發前先來購買作為早餐。",
+        "keywords": [
+            "包子",
+            "花蓮",
+            "現蒸",
+            "排隊",
+            "早餐"
+        ],
+        "must_try": [
+            "肉包",
+            "菜包",
+            "芋頭包"
+        ],
+        "awards": [],
+        "city": "花蓮縣",
+        "district": "花蓮市",
+        "address": "花蓮縣花蓮市公正街47號",
+        "latitude": 23.9741,
+        "longitude": 121.6009,
+        "nearest_transit": [
+            {
+                "type": "TRA",
+                "station": "花蓮站",
+                "line": null,
+                "walk_minutes": 12
+            }
+        ],
+        "has_parking": false,
+        "category": "小吃",
+        "tags": [
+            "包子",
+            "花蓮",
+            "現蒸",
+            "排隊",
+            "早餐"
+        ],
+        "vegetarian_type": "partial",
+        "halal": false,
+        "pet_friendly": false,
+        "wifi": false,
+        "power_outlet": false,
+        "private_room": false,
+        "seating": {
+            "dine_in": false,
+            "takeout": true,
+            "delivery": false
+        },
+        "open_hours": {
+            "monday": "05:30-12:00",
+            "tuesday": "05:30-12:00",
+            "wednesday": "05:30-12:00",
+            "thursday": "05:30-12:00",
+            "friday": "05:30-12:00",
+            "saturday": "05:30-12:00",
+            "sunday": "05:30-12:00"
+        },
+        "closed_days": [],
+        "season": [
+            "四季皆宜"
+        ],
+        "avg_meal_time": 10,
+        "queue_level": "long",
+        "payment_methods": [
+            "現金"
+        ],
+        "price_range_min": 15,
+        "price_range_max": 40,
+        "price_level": 1,
+        "min_charge": 0,
+        "reservation_required": false,
+        "rating": 4.4,
+        "review_count": 16000,
+        "popularity": "high",
+        "crowdedness": "high"
+    },
+    {
+        "id": "food_033",
+        "name": "台東池上便當",
+        "aliases": [
+            "池上飯包",
+            "悟饕池上飯包"
+        ],
+        "description": "台東池上以優質米飯聞名全台，池上便當以木片盒裝、鐵路便當風格呈現，搭配排骨、滷蛋、醃菜。米飯粒粒分明、香氣十足，是所有台東行程的必備美食體驗，在台東火車站或池上老街皆可購得。",
+        "keywords": [
+            "池上便當",
+            "台東",
+            "池上米",
+            "鐵路便當",
+            "名產"
+        ],
+        "must_try": [
+            "排骨便當",
+            "控肉便當",
+            "素食便當"
+        ],
+        "awards": [
+            "台灣十大伴手禮"
+        ],
+        "city": "台東縣",
+        "district": "池上鄉",
+        "address": "台東縣池上鄉中山路",
+        "latitude": 23.1053,
+        "longitude": 121.2248,
+        "nearest_transit": [
+            {
+                "type": "TRA",
+                "station": "池上站",
+                "line": null,
+                "walk_minutes": 5
+            }
+        ],
+        "has_parking": true,
+        "category": "中式",
+        "tags": [
+            "便當",
+            "池上米",
+            "台東",
+            "伴手禮",
+            "名產"
+        ],
+        "vegetarian_type": "partial",
+        "halal": false,
+        "pet_friendly": false,
+        "wifi": false,
+        "power_outlet": false,
+        "private_room": false,
+        "seating": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": false
+        },
+        "open_hours": {
+            "monday": "07:00-20:00",
+            "tuesday": "07:00-20:00",
+            "wednesday": "07:00-20:00",
+            "thursday": "07:00-20:00",
+            "friday": "07:00-20:00",
+            "saturday": "07:00-21:00",
+            "sunday": "07:00-21:00"
+        },
+        "closed_days": [],
+        "season": [
+            "四季皆宜"
+        ],
+        "avg_meal_time": 20,
+        "queue_level": "medium",
+        "payment_methods": [
+            "現金"
+        ],
+        "price_range_min": 80,
+        "price_range_max": 150,
+        "price_level": 1,
+        "min_charge": 0,
+        "reservation_required": false,
+        "rating": 4.4,
+        "review_count": 21000,
+        "popularity": "high",
+        "crowdedness": "medium"
+    },
+    {
+        "id": "food_034",
+        "name": "澎湖海鮮餐廳",
+        "aliases": [
+            "澎湖海產",
+            "馬公海鮮"
+        ],
+        "description": "澎湖群島的現撈海鮮是台灣最新鮮的海產資源，透抽、龍蝦、九孔、海膽等應有盡有。漁港旁的餐廳直接向漁民收購，食材保鮮度極高，夏季旅遊旺季建議提前訂位，是離島海鮮體驗的最佳選擇。",
+        "keywords": [
+            "海鮮",
+            "澎湖",
+            "離島",
+            "現撈",
+            "龍蝦"
+        ],
+        "must_try": [
+            "清蒸透抽",
+            "龍蝦刺身",
+            "九孔",
+            "丁香魚"
+        ],
+        "awards": [],
+        "city": "澎湖縣",
+        "district": "馬公市",
+        "address": "澎湖縣馬公市漁人碼頭",
+        "latitude": 23.5661,
+        "longitude": 119.6167,
+        "nearest_transit": [
+            {
+                "type": "BUS",
+                "station": "馬公港站",
+                "line": null,
+                "walk_minutes": 5
+            }
+        ],
+        "has_parking": true,
+        "category": "海鮮",
+        "tags": [
+            "海鮮",
+            "澎湖",
+            "現撈",
+            "離島",
+            "龍蝦"
+        ],
+        "vegetarian_type": "none",
+        "halal": false,
+        "pet_friendly": false,
+        "wifi": true,
+        "power_outlet": false,
+        "private_room": true,
+        "seating": {
+            "dine_in": true,
+            "takeout": false,
+            "delivery": false
+        },
+        "open_hours": {
+            "monday": "11:00-21:00",
+            "tuesday": "11:00-21:00",
+            "wednesday": "11:00-21:00",
+            "thursday": "11:00-21:00",
+            "friday": "11:00-21:30",
+            "saturday": "10:30-21:30",
+            "sunday": "10:30-21:00"
+        },
+        "closed_days": [],
+        "season": [
+            "春",
+            "夏",
+            "秋"
+        ],
+        "avg_meal_time": 90,
+        "queue_level": "medium",
+        "payment_methods": [
+            "現金]",
+            "信用卡"
+        ],
+        "price_range_min": 500,
+        "price_range_max": 2500,
+        "price_level": 2,
+        "min_charge": 0,
+        "reservation_required": true,
+        "rating": 4.4,
+        "review_count": 9800,
+        "popularity": "high",
+        "crowdedness": "medium"
+    },
+    {
+        "id": "food_035",
+        "name": "新竹貢丸米粉",
+        "aliases": [
+            "新竹米粉",
+            "新竹貢丸湯"
+        ],
+        "description": "新竹的貢丸以豬肉手打製成，彈牙Q脆、鮮甜無腥，搭配新竹細米粉煮成湯麵是在地早午餐首選。米粉細如髮絲、吸湯後入口即化，配上大顆貢丸的組合是新竹代表性名產，各大超市均有真空包裝可購買帶走。",
+        "keywords": [
+            "貢丸",
+            "米粉",
+            "新竹",
+            "名產",
+            "彈牙"
+        ],
+        "must_try": [
+            "貢丸米粉湯",
+            "貢丸湯",
+            "炒米粉"
+        ],
+        "awards": [],
+        "city": "新竹市",
+        "district": "北區",
+        "address": "新竹市北區中央路",
+        "latitude": 24.8038,
+        "longitude": 120.9685,
+        "nearest_transit": [
+            {
+                "type": "TRA",
+                "station": "新竹站",
+                "line": null,
+                "walk_minutes": 10
+            }
+        ],
+        "has_parking": false,
+        "category": "麵食",
+        "tags": [
+            "貢丸",
+            "米粉",
+            "新竹",
+            "名產",
+            "在地"
+        ],
+        "vegetarian_type": "none",
+        "halal": false,
+        "pet_friendly": false,
+        "wifi": false,
+        "power_outlet": false,
+        "private_room": false,
+        "seating": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": false
+        },
+        "open_hours": {
+            "monday": "07:00-18:00",
+            "tuesday": "07:00-18:00",
+            "wednesday": "07:00-18:00",
+            "thursday": "07:00-18:00",
+            "friday": "07:00-18:00",
+            "saturday": "07:00-18:00",
+            "sunday": "07:00-17:00"
+        },
+        "closed_days": [],
+        "season": [
+            "四季皆宜"
+        ],
+        "avg_meal_time": 20,
+        "queue_level": "short",
+        "payment_methods": [
+            "現金"
+        ],
+        "price_range_min": 50,
+        "price_range_max": 120,
+        "price_level": 1,
+        "min_charge": 0,
+        "reservation_required": false,
+        "rating": 4.2,
+        "review_count": 11000,
+        "popularity": "high",
+        "crowdedness": "medium"
+    },
+    {
+        "id": "food_036",
+        "name": "嘉義火雞肉飯",
+        "aliases": [
+            "嘉義雞肉飯",
+            "噴水雞肉飯"
+        ],
+        "description": "嘉義最具代表性的庶民美食，以火雞肉絲淋上雞油、醬汁鋪在米飯上，簡單卻香氣驚人。全市到處可見雞肉飯攤位，是嘉義人從早到晚的日常主食。每碗不到50元的平民價格，卻讓無數旅客念念不忘。",
+        "keywords": [
+            "雞肉飯",
+            "嘉義",
+            "火雞",
+            "平價",
+            "庶民美食"
+        ],
+        "must_try": [
+            "火雞肉飯",
+            "雞肉湯",
+            "滷蛋"
+        ],
+        "awards": [],
+        "city": "嘉義市",
+        "district": "東區",
+        "address": "嘉義市東區中山路",
+        "latitude": 23.4796,
+        "longitude": 120.4486,
+        "nearest_transit": [
+            {
+                "type": "TRA",
+                "station": "嘉義站",
+                "line": null,
+                "walk_minutes": 8
+            }
+        ],
+        "has_parking": false,
+        "category": "小吃",
+        "tags": [
+            "雞肉飯",
+            "嘉義",
+            "火雞",
+            "平價",
+            "在地"
+        ],
+        "vegetarian_type": "none",
+        "halal": false,
+        "pet_friendly": false,
+        "wifi": false,
+        "power_outlet": false,
+        "private_room": false,
+        "seating": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": false
+        },
+        "open_hours": {
+            "monday": "06:00-21:00",
+            "tuesday": "06:00-21:00",
+            "wednesday": "06:00-21:00",
+            "thursday": "06:00-21:00",
+            "friday": "06:00-21:00",
+            "saturday": "06:00-21:00",
+            "sunday": "06:00-20:00"
+        },
+        "closed_days": [],
+        "season": [
+            "四季皆宜"
+        ],
+        "avg_meal_time": 20,
+        "queue_level": "medium",
+        "payment_methods": [
+            "現金"
+        ],
+        "price_range_min": 30,
+        "price_range_max": 100,
+        "price_level": 1,
+        "min_charge": 0,
+        "reservation_required": false,
+        "rating": 4.4,
+        "review_count": 19000,
+        "popularity": "high",
+        "crowdedness": "medium"
+    },
+    {
+        "id": "food_037",
+        "name": "台南牛肉湯",
+        "aliases": [
+            "台南溫體牛肉湯",
+            "永樂市場牛肉湯"
+        ],
+        "description": "台南清晨才吃得到的溫體牛肉湯，當天屠宰的新鮮牛肉現切現燙，湯底清澈鮮甜，牛肉嫩滑無腥。清晨五點至九點才有供應，賣完即止。體驗台南飲食文化一定要起個大早，趕在市場人潮湧入前喝到第一碗。",
+        "keywords": [
+            "牛肉湯",
+            "溫體",
+            "台南",
+            "清晨",
+            "在地早餐"
+        ],
+        "must_try": [
+            "溫體牛肉湯",
+            "牛肉燴飯",
+            "牛雜湯"
+        ],
+        "awards": [
+            "米其林必比登推介"
+        ],
+        "city": "台南市",
+        "district": "中西區",
+        "address": "台南市中西區西門路二段",
+        "latitude": 22.9935,
+        "longitude": 120.2065,
+        "nearest_transit": [
+            {
+                "type": "BUS",
+                "station": "西門路口站",
+                "line": null,
+                "walk_minutes": 5
+            }
+        ],
+        "has_parking": false,
+        "category": "中式",
+        "tags": [
+            "牛肉湯",
+            "溫體",
+            "台南",
+            "早餐",
+            "在地文化"
+        ],
+        "vegetarian_type": "none",
+        "halal": false,
+        "pet_friendly": false,
+        "wifi": false,
+        "power_outlet": false,
+        "private_room": false,
+        "seating": {
+            "dine_in": true,
+            "takeout": false,
+            "delivery": false
+        },
+        "open_hours": {
+            "monday": "05:00-09:30",
+            "tuesday": "05:00-09:30",
+            "wednesday": "05:00-09:30",
+            "thursday": "05:00-09:30",
+            "friday": "05:00-09:30",
+            "saturday": "05:00-10:00",
+            "sunday": "05:00-10:00"
+        },
+        "closed_days": [],
+        "season": [
+            "四季皆宜"
+        ],
+        "avg_meal_time": 20,
+        "queue_level": "long",
+        "payment_methods": [
+            "現金"
+        ],
+        "price_range_min": 80,
+        "price_range_max": 200,
+        "price_level": 1,
+        "min_charge": 0,
+        "reservation_required": false,
+        "rating": 4.6,
+        "review_count": 24000,
+        "popularity": "high",
+        "crowdedness": "high"
+    },
+    {
+        "id": "food_038",
+        "name": "公館蟾蜍山麵線",
+        "aliases": [
+            "公館麵線",
+            "台大周邊麵線"
+        ],
+        "description": "台北公館台大商圈的蚵仔麵線老攤，麵線糊稠適中、大腸Q脆有嚼勁，蚵仔飽滿鮮甜。鄰近台灣大學，深受學生喜愛，長年以超高CP值穩居台北麵線前段班，用餐尖峰時段需要等候。",
+        "keywords": [
+            "麵線",
+            "蚵仔",
+            "大腸",
+            "公館",
+            "台大"
+        ],
+        "must_try": [
+            "蚵仔麵線",
+            "大腸麵線",
+            "綜合麵線"
+        ],
+        "awards": [],
+        "city": "台北市",
+        "district": "中正區",
+        "address": "台北市中正區羅斯福路四段",
+        "latitude": 25.0174,
+        "longitude": 121.5332,
+        "nearest_transit": [
+            {
+                "type": "MRT",
+                "station": "公館站",
+                "line": "新店線",
+                "walk_minutes": 3
+            }
+        ],
+        "has_parking": false,
+        "category": "小吃",
+        "tags": [
+            "麵線",
+            "蚵仔",
+            "大腸",
+            "公館",
+            "學生最愛"
+        ],
+        "vegetarian_type": "none",
+        "halal": false,
+        "pet_friendly": false,
+        "wifi": false,
+        "power_outlet": false,
+        "private_room": false,
+        "seating": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": false
+        },
+        "open_hours": {
+            "monday": "10:30-21:30",
+            "tuesday": "10:30-21:30",
+            "wednesday": "10:30-21:30",
+            "thursday": "10:30-21:30",
+            "friday": "10:30-22:00",
+            "saturday": "10:00-22:00",
+            "sunday": "10:00-21:30"
+        },
+        "closed_days": [],
+        "season": [
+            "四季皆宜"
+        ],
+        "avg_meal_time": 15,
+        "queue_level": "medium",
+        "payment_methods": [
+            "現金"
+        ],
+        "price_range_min": 40,
+        "price_range_max": 80,
+        "price_level": 1,
+        "min_charge": 0,
+        "reservation_required": false,
+        "rating": 4.1,
+        "review_count": 8800,
+        "popularity": "medium",
+        "crowdedness": "medium"
+    },
+    {
+        "id": "food_039",
+        "name": "麻膳堂麻辣麵",
+        "aliases": [
+            "麻膳堂",
+            "大安麻辣麵"
+        ],
+        "description": "台北大安區以四川風格麻辣乾麵著稱的人氣麵店，紅油香氣濃烈、花椒麻香層次分明，可自選辣度。麵條Q彈有咬勁，搭配花椒豬肉燥是招牌吃法。文青裝潢讓用餐環境加分，午餐尖峰時段建議提早到。",
+        "keywords": [
+            "麻辣麵",
+            "四川",
+            "花椒",
+            "大安",
+            "文青"
+        ],
+        "must_try": [
+            "麻辣乾麵",
+            "花椒豬肉燥麵",
+            "酸辣湯"
+        ],
+        "awards": [],
+        "city": "台北市",
+        "district": "大安區",
+        "address": "台北市大安區安和路一段127號",
+        "latitude": 25.0260,
+        "longitude": 121.5500,
+        "nearest_transit": [
+            {
+                "type": "MRT",
+                "station": "信義安和站",
+                "line": "信義線",
+                "walk_minutes": 4
+            }
+        ],
+        "has_parking": false,
+        "category": "麵食",
+        "tags": [
+            "麻辣麵",
+            "四川",
+            "文青",
+            "大安",
+            "排隊"
+        ],
+        "vegetarian_type": "partial",
+        "halal": false,
+        "pet_friendly": false,
+        "wifi": true,
+        "power_outlet": true,
+        "private_room": false,
+        "seating": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": true
+        },
+        "open_hours": {
+            "monday": "11:30-21:00",
+            "tuesday": "11:30-21:00",
+            "wednesday": "公休",
+            "thursday": "11:30-21:00",
+            "friday": "11:30-21:30",
+            "saturday": "11:30-21:30",
+            "sunday": "11:30-21:00"
+        },
+        "closed_days": [
+            "週三"
+        ],
+        "season": [
+            "四季皆宜"
+        ],
+        "avg_meal_time": 30,
+        "queue_level": "medium",
+        "payment_methods": [
+            "現金",
+            "信用卡",
+            "行動支付"
+        ],
+        "price_range_min": 150,
+        "price_range_max": 280,
+        "price_level": 2,
+        "min_charge": 0,
+        "reservation_required": false,
+        "rating": 4.3,
+        "review_count": 10500,
+        "popularity": "high",
+        "crowdedness": "high"
+    },
+    {
+        "id": "food_040",
+        "name": "永和豆漿大王",
+        "aliases": [
+            "永和豆漿",
+            "24小時豆漿"
+        ],
+        "description": "台北24小時營業的豆漿早點名店，以鹹豆漿、蛋餅、燒餅油條聞名，深夜與清晨同樣客滿。鹹豆漿加醋後自然凝結的口感是台式早餐的精髓。已成為台北城市文化標誌之一，觀光客必訪的傳統台式早餐體驗。",
+        "keywords": [
+            "豆漿",
+            "24小時",
+            "鹹豆漿",
+            "蛋餅",
+            "台式早餐"
+        ],
+        "must_try": [
+            "鹹豆漿",
+            "蛋餅",
+            "燒餅油條"
+        ],
+        "awards": [],
+        "city": "台北市",
+        "district": "中正區",
+        "address": "台北市中正區汀州路二段",
+        "latitude": 25.0230,
+        "longitude": 121.5190,
+        "nearest_transit": [
+            {
+                "type": "MRT",
+                "station": "古亭站",
+                "line": "新店線",
+                "walk_minutes": 5
+            }
+        ],
+        "has_parking": false,
+        "category": "早午餐",
+        "tags": [
+            "豆漿",
+            "24小時",
+            "台式早餐",
+            "平價",
+            "觀光"
+        ],
+        "vegetarian_type": "partial",
+        "halal": false,
+        "pet_friendly": false,
+        "wifi": false,
+        "power_outlet": false,
+        "private_room": false,
+        "seating": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": false
+        },
+        "open_hours": {
+            "monday": "全天開放",
+            "tuesday": "全天開放",
+            "wednesday": "全天開放",
+            "thursday": "全天開放",
+            "friday": "全天開放",
+            "saturday": "全天開放",
+            "sunday": "全天開放"
+        },
+        "closed_days": [],
+        "season": [
+            "四季皆宜"
+        ],
+        "avg_meal_time": 20,
+        "queue_level": "medium",
+        "payment_methods": [
+            "現金"
+        ],
+        "price_range_min": 30,
+        "price_range_max": 120,
+        "price_level": 1,
+        "min_charge": 0,
+        "reservation_required": false,
+        "rating": 4.0,
+        "review_count": 25000,
+        "popularity": "high",
+        "crowdedness": "high"
+    },
+    {
+        "id": "food_041",
+        "name": "老天祿鹵味",
+        "aliases": [
+            "老天祿",
+            "萬華鹵味"
+        ],
+        "description": "台北萬華百年鹵味老店，以古法鹵汁滷製豬耳、鴨翅、豆干等各式食材，入味深厚、鹹甜平衡。切盤後現點現切，是廟口文化的重要組成。在地人掃廟後必買一袋帶走，也是龍山寺周邊最知名的伴手小吃。",
+        "keywords": [
+            "鹵味",
+            "萬華",
+            "百年",
+            "廟口小吃",
+            "龍山寺"
+        ],
+        "must_try": [
+            "豬耳朵",
+            "鴨翅",
+            "豆干",
+            "海帶"
+        ],
+        "awards": [],
+        "city": "台北市",
+        "district": "萬華區",
+        "address": "台北市萬華區廣州街200號",
+        "latitude": 25.0380,
+        "longitude": 121.5005,
+        "nearest_transit": [
+            {
+                "type": "MRT",
+                "station": "龍山寺站",
+                "line": "板南線",
+                "walk_minutes": 4
+            }
+        ],
+        "has_parking": false,
+        "category": "小吃",
+        "tags": [
+            "鹵味",
+            "萬華",
+            "廟口",
+            "百年老店",
+            "古早味"
+        ],
+        "vegetarian_type": "none",
+        "halal": false,
+        "pet_friendly": false,
+        "wifi": false,
+        "power_outlet": false,
+        "private_room": false,
+        "seating": {
+            "dine_in": false,
+            "takeout": true,
+            "delivery": false
+        },
+        "open_hours": {
+            "monday": "10:00-21:00",
+            "tuesday": "10:00-21:00",
+            "wednesday": "10:00-21:00",
+            "thursday": "10:00-21:00",
+            "friday": "10:00-21:30",
+            "saturday": "09:30-21:30",
+            "sunday": "09:30-21:00"
+        },
+        "closed_days": [],
+        "season": [
+            "四季皆宜"
+        ],
+        "avg_meal_time": 10,
+        "queue_level": "short",
+        "payment_methods": [
+            "現金"
+        ],
+        "price_range_min": 50,
+        "price_range_max": 300,
+        "price_level": 1,
+        "min_charge": 0,
+        "reservation_required": false,
+        "rating": 4.1,
+        "review_count": 13000,
+        "popularity": "high",
+        "crowdedness": "medium"
+    },
+    {
+        "id": "food_042",
+        "name": "壽司郎台北信義店",
+        "aliases": [
+            "壽司郎",
+            "Sushiro",
+            "迴轉壽司"
+        ],
+        "description": "日本最大迴轉壽司品牌在台分店，以高品質食材、實惠價格著稱，鮭魚、海膽、干貝品項豐富。使用傳送帶與APP點餐結合，效率高且趣味性強。台北信義商圈店位置方便，是全家或朋友聚餐CP值極高的選擇。",
+        "keywords": [
+            "壽司",
+            "迴轉壽司",
+            "日式",
+            "信義",
+            "CP值"
+        ],
+        "must_try": [
+            "鮭魚握壽司",
+            "海膽軍艦",
+            "干貝握壽司",
+            "玉子燒"
+        ],
+        "awards": [],
+        "city": "台北市",
+        "district": "信義區",
+        "address": "台北市信義區松仁路58號4樓",
+        "latitude": 25.0339,
+        "longitude": 121.5645,
+        "nearest_transit": [
+            {
+                "type": "MRT",
+                "station": "台北101/世貿站",
+                "line": "信義線",
+                "walk_minutes": 6
+            }
+        ],
+        "has_parking": true,
+        "category": "日式",
+        "tags": [
+            "壽司",
+            "迴轉壽司",
+            "日式",
+            "平價",
+            "CP值"
+        ],
+        "vegetarian_type": "partial",
+        "halal": false,
+        "pet_friendly": false,
+        "wifi": true,
+        "power_outlet": false,
+        "private_room": false,
+        "seating": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": false
+        },
+        "open_hours": {
+            "monday": "11:00-22:00",
+            "tuesday": "11:00-22:00",
+            "wednesday": "11:00-22:00",
+            "thursday": "11:00-22:00",
+            "friday": "11:00-22:30",
+            "saturday": "10:30-22:30",
+            "sunday": "10:30-22:00"
+        },
+        "closed_days": [],
+        "season": [
+            "四季皆宜"
+        ],
+        "avg_meal_time": 60,
+        "queue_level": "long",
+        "payment_methods": [
+            "現金",
+            "信用卡",
+            "行動支付"
+        ],
+        "price_range_min": 200,
+        "price_range_max": 600,
+        "price_level": 2,
+        "min_charge": 0,
+        "reservation_required": false,
+        "rating": 4.2,
+        "review_count": 31000,
+        "popularity": "high",
+        "crowdedness": "high"
+    },
+    {
+        "id": "food_043",
+        "name": "九份芋圓",
+        "aliases": [
+            "賴阿婆芋圓",
+            "九份甜品"
+        ],
+        "description": "九份山城最具代表性的甜點，以芋頭、地瓜、抹茶製成各色芋圓，口感Q彈有嚼勁，搭配熱甜湯或剉冰均可。登高老街、俯瞰山海的視野中享用一碗熱芋圓，是九份之旅最完美的結尾，無論晴雨都合適。",
+        "keywords": [
+            "芋圓",
+            "九份",
+            "甜點",
+            "山城",
+            "老街"
+        ],
+        "must_try": [
+            "綜合芋圓冰",
+            "熱芋圓甜湯",
+            "地瓜圓"
+        ],
+        "awards": [],
+        "city": "新北市",
+        "district": "瑞芳區",
+        "address": "新北市瑞芳區豎崎路5號",
+        "latitude": 25.1090,
+        "longitude": 121.8435,
+        "nearest_transit": [
+            {
+                "type": "TRA",
+                "station": "瑞芳站",
+                "line": null,
+                "walk_minutes": 30
+            }
+        ],
+        "has_parking": false,
+        "category": "甜點",
+        "tags": [
+            "芋圓",
+            "九份",
+            "甜點",
+            "老街",
+            "打卡"
+        ],
+        "vegetarian_type": "vegan",
+        "halal": false,
+        "pet_friendly": true,
+        "wifi": false,
+        "power_outlet": false,
+        "private_room": false,
+        "seating": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": false
+        },
+        "open_hours": {
+            "monday": "09:00-20:00",
+            "tuesday": "09:00-20:00",
+            "wednesday": "09:00-20:00",
+            "thursday": "09:00-20:00",
+            "friday": "09:00-21:00",
+            "saturday": "08:30-21:00",
+            "sunday": "08:30-20:30"
+        },
+        "closed_days": [],
+        "season": [
+            "四季皆宜"
+        ],
+        "avg_meal_time": 20,
+        "queue_level": "long",
+        "payment_methods": [
+            "現金"
+        ],
+        "price_range_min": 60,
+        "price_range_max": 120,
+        "price_level": 1,
+        "min_charge": 0,
+        "reservation_required": false,
+        "rating": 4.3,
+        "review_count": 28000,
+        "popularity": "high",
+        "crowdedness": "high"
+    },
+    {
+        "id": "food_044",
+        "name": "台中第二市場山河魯肉飯",
+        "aliases": [
+            "第二市場",
+            "台中魯肉飯",
+            "山河滷肉飯"
+        ],
+        "description": "台中百年第二市場內的經典魯肉飯攤，飄香超過70年，豬皮膠質豐富、滷汁甘醇，配上半熟滷蛋是完美組合。傳統市場的庶民氛圍讓用餐體驗更有溫度，早市人聲鼎沸，是體驗台中老台中飲食文化的最佳場所。",
+        "keywords": [
+            "魯肉飯",
+            "台中",
+            "第二市場",
+            "老店",
+            "古早味"
+        ],
+        "must_try": [
+            "魯肉飯",
+            "滷蛋",
+            "貢丸湯"
+        ],
+        "awards": [],
+        "city": "台中市",
+        "district": "中區",
+        "address": "台中市中區三民路二段87號",
+        "latitude": 24.1381,
+        "longitude": 120.6844,
+        "nearest_transit": [
+            {
+                "type": "TRA",
+                "station": "台中站",
+                "line": null,
+                "walk_minutes": 10
+            }
+        ],
+        "has_parking": false,
+        "category": "小吃",
+        "tags": [
+            "魯肉飯",
+            "台中",
+            "傳統市場",
+            "古早味",
+            "老字號"
+        ],
+        "vegetarian_type": "none",
+        "halal": false,
+        "pet_friendly": false,
+        "wifi": false,
+        "power_outlet": false,
+        "private_room": false,
+        "seating": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": false
+        },
+        "open_hours": {
+            "monday": "06:00-14:00",
+            "tuesday": "06:00-14:00",
+            "wednesday": "06:00-14:00",
+            "thursday": "06:00-14:00",
+            "friday": "06:00-14:00",
+            "saturday": "06:00-14:00",
+            "sunday": "公休"
+        },
+        "closed_days": [
+            "週日"
+        ],
+        "season": [
+            "四季皆宜"
+        ],
+        "avg_meal_time": 20,
+        "queue_level": "medium",
+        "payment_methods": [
+            "現金"
+        ],
+        "price_range_min": 30,
+        "price_range_max": 80,
+        "price_level": 1,
+        "min_charge": 0,
+        "reservation_required": false,
+        "rating": 4.3,
+        "review_count": 13500,
+        "popularity": "high",
+        "crowdedness": "medium"
+    },
+    {
+        "id": "food_045",
+        "name": "吳寶春麵包高雄店",
+        "aliases": [
+            "吳寶春",
+            "世界冠軍麵包"
+        ],
+        "description": "世界麵包大賽冠軍吳寶春的旗艦烘焙店，荔枝玫瑰麵包是招牌，以台灣在地食材融入歐式工法，口感細膩層次豐富。店內常大排長龍，建議非假日前往。除麵包外亦有甜點與咖啡，是高雄文化體驗的重要景點之一。",
+        "keywords": [
+            "麵包",
+            "高雄",
+            "世界冠軍",
+            "吳寶春",
+            "伴手禮"
+        ],
+        "must_try": [
+            "荔枝玫瑰麵包",
+            "酒釀桂圓麵包",
+            "鄉村麵包"
+        ],
+        "awards": [
+            "世界麵包大賽冠軍"
+        ],
+        "city": "高雄市",
+        "district": "苓雅區",
+        "address": "高雄市苓雅區四維三路19號",
+        "latitude": 22.6198,
+        "longitude": 120.3082,
+        "nearest_transit": [
+            {
+                "type": "MRT",
+                "station": "文化中心站",
+                "line": "橘線",
+                "walk_minutes": 8
+            }
+        ],
+        "has_parking": false,
+        "category": "甜點",
+        "tags": [
+            "麵包",
+            "烘焙",
+            "世界冠軍",
+            "伴手禮",
+            "打卡"
+        ],
+        "vegetarian_type": "lacto_ovo",
+        "halal": false,
+        "pet_friendly": false,
+        "wifi": true,
+        "power_outlet": true,
+        "private_room": false,
+        "seating": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": false
+        },
+        "open_hours": {
+            "monday": "公休",
+            "tuesday": "10:00-20:00",
+            "wednesday": "10:00-20:00",
+            "thursday": "10:00-20:00",
+            "friday": "10:00-20:30",
+            "saturday": "09:00-20:30",
+            "sunday": "09:00-20:00"
+        },
+        "closed_days": [
+            "週一"
+        ],
+        "season": [
+            "四季皆宜"
+        ],
+        "avg_meal_time": 30,
+        "queue_level": "long",
+        "payment_methods": [
+            "現金",
+            "信用卡"
+        ],
+        "price_range_min": 80,
+        "price_range_max": 600,
+        "price_level": 2,
+        "min_charge": 0,
+        "reservation_required": false,
+        "rating": 4.5,
+        "review_count": 26000,
+        "popularity": "high",
+        "crowdedness": "high"
+    },
+    {
+        "id": "food_046",
+        "name": "台南安平蚵仔煎",
+        "aliases": [
+            "安平蚵仔煎",
+            "台南蚵仔煎"
+        ],
+        "description": "台南安平老街旁的蚵仔煎名攤，現地現採的台南蚵仔個頭飽滿鮮甜，煎至金黃酥脆後淋上甜辣醬，蛋液包覆均勻、口感外酥內嫩。搭配一杯現榨木瓜牛奶是在地老饕的固定搭配，是安平半日遊必吃的首選小吃。",
+        "keywords": [
+            "蚵仔煎",
+            "台南",
+            "安平",
+            "海鮮",
+            "小吃"
+        ],
+        "must_try": [
+            "蚵仔煎",
+            "蝦仁煎",
+            "肉燥飯"
+        ],
+        "awards": [],
+        "city": "台南市",
+        "district": "安平區",
+        "address": "台南市安平區安平路",
+        "latitude": 22.9930,
+        "longitude": 120.1590,
+        "nearest_transit": [
+            {
+                "type": "BUS",
+                "station": "安平古堡站",
+                "line": null,
+                "walk_minutes": 5
+            }
+        ],
+        "has_parking": true,
+        "category": "小吃",
+        "tags": [
+            "蚵仔煎",
+            "台南",
+            "安平",
+            "海鮮",
+            "在地"
+        ],
+        "vegetarian_type": "none",
+        "halal": false,
+        "pet_friendly": false,
+        "wifi": false,
+        "power_outlet": false,
+        "private_room": false,
+        "seating": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": false
+        },
+        "open_hours": {
+            "monday": "10:00-20:00",
+            "tuesday": "10:00-20:00",
+            "wednesday": "10:00-20:00",
+            "thursday": "10:00-20:00",
+            "friday": "10:00-20:30",
+            "saturday": "09:30-20:30",
+            "sunday": "09:30-20:00"
+        },
+        "closed_days": [],
+        "season": [
+            "四季皆宜"
+        ],
+        "avg_meal_time": 20,
+        "queue_level": "medium",
+        "payment_methods": [
+            "現金"
+        ],
+        "price_range_min": 50,
+        "price_range_max": 120,
+        "price_level": 1,
+        "min_charge": 0,
+        "reservation_required": false,
+        "rating": 4.2,
+        "review_count": 9200,
+        "popularity": "medium",
+        "crowdedness": "medium"
+    },
+    {
+        "id": "food_047",
+        "name": "台北RAW",
+        "aliases": [
+            "RAW餐廳",
+            "江振誠RAW"
+        ],
+        "description": "台灣頂尖主廚江振誠創立的創意台灣料理餐廳，以Fine Dining規格呈現台灣在地食材，每季更換菜單。菜餚兼具視覺美學與味覺深度，是台北美食界的指標性餐廳，訂位需提前數週甚至數月，是台灣高端饗食的代表。",
+        "keywords": [
+            "Fine Dining",
+            "創意台菜",
+            "江振誠",
+            "高端",
+            "米其林"
+        ],
+        "must_try": [
+            "季節套餐",
+            "台灣食材創意料理"
+        ],
+        "awards": [
+            "米其林二星"
+        ],
+        "city": "台北市",
+        "district": "中山區",
+        "address": "台北市中山區樂群三路301號",
+        "latitude": 25.0808,
+        "longitude": 121.5580,
+        "nearest_transit": [
+            {
+                "type": "MRT",
+                "station": "大直站",
+                "line": "文湖線",
+                "walk_minutes": 10
+            }
+        ],
+        "has_parking": true,
+        "category": "中式",
+        "tags": [
+            "Fine Dining",
+            "創意台菜",
+            "米其林",
+            "高端",
+            "打卡"
+        ],
+        "vegetarian_type": "partial",
+        "halal": false,
+        "pet_friendly": false,
+        "wifi": true,
+        "power_outlet": false,
+        "private_room": true,
+        "seating": {
+            "dine_in": true,
+            "takeout": false,
+            "delivery": false
+        },
+        "open_hours": {
+            "monday": "公休",
+            "tuesday": "公休",
+            "wednesday": "12:00-14:00,18:30-21:30",
+            "thursday": "12:00-14:00,18:30-21:30",
+            "friday": "12:00-14:00,18:30-21:30",
+            "saturday": "12:00-14:30,18:30-21:30",
+            "sunday": "12:00-14:30,18:30-21:30"
+        },
+        "closed_days": [
+            "週一",
+            "週二"
+        ],
+        "season": [
+            "四季皆宜"
+        ],
+        "avg_meal_time": 120,
+        "queue_level": "none",
+        "payment_methods": [
+            "信用卡"
+        ],
+        "price_range_min": 3500,
+        "price_range_max": 6000,
+        "price_level": 3,
+        "min_charge": 3500,
+        "reservation_required": true,
+        "rating": 4.8,
+        "review_count": 8500,
+        "popularity": "high",
+        "crowdedness": "low"
+    },
+    {
+        "id": "food_048",
+        "name": "基隆正濱漁港餐廳",
+        "aliases": [
+            "正濱漁港海鮮",
+            "基隆彩色屋"
+        ],
+        "description": "基隆正濱漁港旁的新鮮海產餐廳，以港口現撈漁獲入菜，螃蟹、龍蝦、各式魚類鮮度有保障。餐廳緊鄰彩色屋拍照景點，可安排下午遊覽後用晚餐。比廟口夜市多了海港氛圍，適合小家庭或情侶聚餐。",
+        "keywords": [
+            "海鮮",
+            "基隆",
+            "漁港",
+            "螃蟹",
+            "現撈"
+        ],
+        "must_try": [
+            "清蒸螃蟹",
+            "炒海瓜子",
+            "龍蝦粥",
+            "烤鮮魚"
+        ],
+        "awards": [],
+        "city": "基隆市",
+        "district": "中正區",
+        "address": "基隆市中正區中正路",
+        "latitude": 25.1158,
+        "longitude": 121.7588,
+        "nearest_transit": [
+            {
+                "type": "BUS",
+                "station": "正濱漁港站",
+                "line": null,
+                "walk_minutes": 3
+            }
+        ],
+        "has_parking": true,
+        "category": "海鮮",
+        "tags": [
+            "海鮮",
+            "漁港",
+            "基隆",
+            "現撈",
+            "螃蟹"
+        ],
+        "vegetarian_type": "none",
+        "halal": false,
+        "pet_friendly": false,
+        "wifi": false,
+        "power_outlet": false,
+        "private_room": true,
+        "seating": {
+            "dine_in": true,
+            "takeout": false,
+            "delivery": false
+        },
+        "open_hours": {
+            "monday": "11:00-21:00",
+            "tuesday": "11:00-21:00",
+            "wednesday": "11:00-21:00",
+            "thursday": "11:00-21:00",
+            "friday": "11:00-21:30",
+            "saturday": "10:30-21:30",
+            "sunday": "10:30-21:00"
+        },
+        "closed_days": [],
+        "season": [
+            "四季皆宜"
+        ],
+        "avg_meal_time": 90,
+        "queue_level": "short",
+        "payment_methods": [
+            "現金",
+            "信用卡"
+        ],
+        "price_range_min": 400,
+        "price_range_max": 1500,
+        "price_level": 2,
+        "min_charge": 0,
+        "reservation_required": false,
+        "rating": 4.2,
+        "review_count": 7800,
+        "popularity": "medium",
+        "crowdedness": "medium"
+    },
+    {
+        "id": "food_049",
+        "name": "花蓮液香扁食",
+        "aliases": [
+            "液香扁食",
+            "花蓮餛飩"
+        ],
+        "description": "花蓮市區60年老字號扁食店，以手工捏製的扁食（餛飩）現包現煮為賣點，豬肉餡鮮嫩多汁，湯底清澈鮮甜。搭配米粉或麵條也深受在地人喜愛，是花蓮慢步調生活文化的縮影，觀光客必訪的古早味小店。",
+        "keywords": [
+            "扁食",
+            "花蓮",
+            "餛飩",
+            "老店",
+            "手工"
+        ],
+        "must_try": [
+            "扁食湯",
+            "扁食乾麵",
+            "米粉湯"
+        ],
+        "awards": [],
+        "city": "花蓮縣",
+        "district": "花蓮市",
+        "address": "花蓮縣花蓮市中正路217號",
+        "latitude": 23.9780,
+        "longitude": 121.6030,
+        "nearest_transit": [
+            {
+                "type": "TRA",
+                "station": "花蓮站",
+                "line": null,
+                "walk_minutes": 10
+            }
+        ],
+        "has_parking": false,
+        "category": "麵食",
+        "tags": [
+            "扁食",
+            "餛飩",
+            "花蓮",
+            "手工",
+            "老字號"
+        ],
+        "vegetarian_type": "none",
+        "halal": false,
+        "pet_friendly": false,
+        "wifi": false,
+        "power_outlet": false,
+        "private_room": false,
+        "seating": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": false
+        },
+        "open_hours": {
+            "monday": "09:00-19:00",
+            "tuesday": "09:00-19:00",
+            "wednesday": "09:00-19:00",
+            "thursday": "09:00-19:00",
+            "friday": "09:00-19:00",
+            "saturday": "09:00-19:00",
+            "sunday": "公休"
+        },
+        "closed_days": [
+            "週日"
+        ],
+        "season": [
+            "四季皆宜"
+        ],
+        "avg_meal_time": 20,
+        "queue_level": "short",
+        "payment_methods": [
+            "現金"
+        ],
+        "price_range_min": 40,
+        "price_range_max": 100,
+        "price_level": 1,
+        "min_charge": 0,
+        "reservation_required": false,
+        "rating": 4.3,
+        "review_count": 6500,
+        "popularity": "medium",
+        "crowdedness": "medium"
+    },
+    {
+        "id": "food_050",
+        "name": "台東關山便當",
+        "aliases": [
+            "關山便當",
+            "關山米飯"
+        ],
+        "description": "台東關山鄉以有機米著稱，關山便當以在地有機米飯搭配滷排骨、豆干、蔬菜，米飯香Q不黏膩。在關山火車站購買後於台東縱谷景致中享用，被列為台灣最具人文風情的飲食體驗之一，是台東慢旅的最佳伴食。",
+        "keywords": [
+            "便當",
+            "關山",
+            "台東",
+            "有機米",
+            "縱谷"
+        ],
+        "must_try": [
+            "排骨便當",
+            "池上米便當",
+            "素食便當"
+        ],
+        "awards": [],
+        "city": "台東縣",
+        "district": "關山鎮",
+        "address": "台東縣關山鎮中山路",
+        "latitude": 23.0522,
+        "longitude": 121.1679,
+        "nearest_transit": [
+            {
+                "type": "TRA",
+                "station": "關山站",
+                "line": null,
+                "walk_minutes": 3
+            }
+        ],
+        "has_parking": true,
+        "category": "中式",
+        "tags": [
+            "便當",
+            "有機米",
+            "台東",
+            "縱谷",
+            "慢旅"
+        ],
+        "vegetarian_type": "partial",
+        "halal": false,
+        "pet_friendly": false,
+        "wifi": false,
+        "power_outlet": false,
+        "private_room": false,
+        "seating": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": false
+        },
+        "open_hours": {
+            "monday": "07:00-19:00",
+            "tuesday": "07:00-19:00",
+            "wednesday": "07:00-19:00",
+            "thursday": "07:00-19:00",
+            "friday": "07:00-19:00",
+            "saturday": "07:00-20:00",
+            "sunday": "07:00-20:00"
+        },
+        "closed_days": [],
+        "season": [
+            "四季皆宜"
+        ],
+        "avg_meal_time": 20,
+        "queue_level": "short",
+        "payment_methods": [
+            "現金"
+        ],
+        "price_range_min": 80,
+        "price_range_max": 130,
+        "price_level": 1,
+        "min_charge": 0,
+        "reservation_required": false,
+        "rating": 4.3,
+        "review_count": 8900,
+        "popularity": "medium",
+        "crowdedness": "low"
+    }
+]

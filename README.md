@@ -15,6 +15,9 @@ pinned: false
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11+-blue?logo=python)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.136-green?logo=fastapi)](https://fastapi.tiangolo.com/)
 [![LangGraph](https://img.shields.io/badge/LangGraph-1.1-purple)](https://langchain-ai.github.io/langgraph/)
+[![Live Demo](https://img.shields.io/badge/🤗%20HF%20Spaces-Live%20Demo-yellow)](https://huggingface.co/spaces/k06181303/taiwan-travel-agent)
+
+> 🌐 **線上 Demo**：[https://huggingface.co/spaces/k06181303/taiwan-travel-agent](https://huggingface.co/spaces/k06181303/taiwan-travel-agent)
 
 ---
 
